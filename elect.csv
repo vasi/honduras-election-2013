@@ -1,76 +1,76 @@
 type,dept,party,name,votes,elect
-candidate,Atlántida,DC,Ana Maribel Valle Rivera,2335,0
-candidate,Atlántida,DC,Gloria Maria Sarmiento Nu¿ez,5372,0
-candidate,Atlántida,DC,Jorge Alberto Elvir Cruz,2846,0
-candidate,Atlántida,DC,Jose Armando Logan ,4909,0
+candidate,Atlántida,DC,Ana Maribel Valle Rivera,2337,0
+candidate,Atlántida,DC,Gloria Maria Sarmiento Nu¿ez,5342,0
+candidate,Atlántida,DC,Jorge Alberto Elvir Cruz,2843,0
+candidate,Atlántida,DC,Jose Armando Logan ,4917,0
 candidate,Atlántida,DC,Josue Eleazer Aleman Izcoa,835,0
-candidate,Atlántida,DC,Kenia Fabiola Chiesa Elvir,2321,0
-candidate,Atlántida,DC,Kennia Yamileth Montero Martinez,2005,0
-candidate,Atlántida,DC,Ramon Antonio Varela Medina,2382,0
+candidate,Atlántida,DC,Kenia Fabiola Chiesa Elvir,2323,0
+candidate,Atlántida,DC,Kennia Yamileth Montero Martinez,2017,0
+candidate,Atlántida,DC,Ramon Antonio Varela Medina,2384,0
 candidate,Atlántida,FAPER,Alicia De Jesus Alvarez Acosta,579,0
-candidate,Atlántida,FAPER,Arlen Carolina Martinez Guzman,254,0
-candidate,Atlántida,FAPER,Cristobal Crispi Oliva Mejia,1712,0
-candidate,Atlántida,FAPER,Juana Concepcion Aguilar Avelar,372,0
+candidate,Atlántida,FAPER,Arlen Carolina Martinez Guzman,248,0
+candidate,Atlántida,FAPER,Cristobal Crispi Oliva Mejia,1692,0
+candidate,Atlántida,FAPER,Juana Concepcion Aguilar Avelar,375,0
 candidate,Atlántida,FAPER,Marcio Renieri Castellanos ,359,0
-candidate,Atlántida,FAPER,Norma Patricia Guevara Gamez,689,0
+candidate,Atlántida,FAPER,Norma Patricia Guevara Gamez,687,0
 candidate,Atlántida,FAPER,Santos Aristeo Lainez Hernandez,446,0
 candidate,Atlántida,FAPER,Vilma Yolanda Pineda Ramirez,331,0
-candidate,Atlántida,LIBRE,Audelia  Rodriguez Rodriguez,23558,1
-candidate,Atlántida,LIBRE,Belin Bekker Rosa Calix,22340,0
-candidate,Atlántida,LIBRE,Cesar Humberto Agurcia Lopez,23510,1
+candidate,Atlántida,LIBRE,Audelia  Rodriguez Rodriguez,23624,1
+candidate,Atlántida,LIBRE,Belin Bekker Rosa Calix,22574,0
+candidate,Atlántida,LIBRE,Cesar Humberto Agurcia Lopez,23607,1
 candidate,Atlántida,LIBRE,Gloria Cristina Torres Sevilla,21896,0
-candidate,Atlántida,LIBRE,Joaquin Baldemar Alvarado ,23066,0
-candidate,Atlántida,LIBRE,Jose Adalid Rodriguez Rosa,20186,0
-candidate,Atlántida,LIBRE,Jose Anibal Rodriguez Milla,22891,0
-candidate,Atlántida,LIBRE,Jose Manuel Santos Villeda,21638,0
-candidate,Atlántida,Liberal,Alba Ruth Zavala Irias,13123,0
-candidate,Atlántida,Liberal,Christian Reniery Santamaria ,25108,1
-candidate,Atlántida,Liberal,Dournoft Delmar Alvarado Mc Nab,15935,0
-candidate,Atlántida,Liberal,Gonzalo Antonio Rivera ,16725,0
-candidate,Atlántida,Liberal,Hector Pavel Fajardo Orellana,16769,0
-candidate,Atlántida,Liberal,Iris Leticia Molinero Canales,15767,0
-candidate,Atlántida,Liberal,Jerry Francisco Sabio Amaya,18455,0
-candidate,Atlántida,Liberal,Maria Aracely Leiva Pe¿a,19297,1
-candidate,Atlántida,Nacional,Carmen Esperanza Rivera Pagoaga,37208,1
-candidate,Atlántida,Nacional,Daniel  Flores Velasquez,32090,0
-candidate,Atlántida,Nacional,Francis Yolanda Castro Rodriguez,27150,0
-candidate,Atlántida,Nacional,Iveth Obdulia Matute Betancourth,26185,0
-candidate,Atlántida,Nacional,Marcio Rene Espinal Cardona,31128,0
-candidate,Atlántida,Nacional,Marco Antonio Midence Milla,32142,0
-candidate,Atlántida,Nacional,Ramon Antonio Leva Bulnes,33544,1
+candidate,Atlántida,LIBRE,Joaquin Baldemar Alvarado ,23061,0
+candidate,Atlántida,LIBRE,Jose Adalid Rodriguez Rosa,20232,0
+candidate,Atlántida,LIBRE,Jose Anibal Rodriguez Milla,22904,0
+candidate,Atlántida,LIBRE,Jose Manuel Santos Villeda,21798,0
+candidate,Atlántida,Liberal,Alba Ruth Zavala Irias,13121,0
+candidate,Atlántida,Liberal,Christian Reniery Santamaria ,25086,1
+candidate,Atlántida,Liberal,Dournoft Delmar Alvarado Mc Nab,16029,0
+candidate,Atlántida,Liberal,Gonzalo Antonio Rivera ,16675,0
+candidate,Atlántida,Liberal,Hector Pavel Fajardo Orellana,16795,0
+candidate,Atlántida,Liberal,Iris Leticia Molinero Canales,15906,0
+candidate,Atlántida,Liberal,Jerry Francisco Sabio Amaya,18459,0
+candidate,Atlántida,Liberal,Maria Aracely Leiva Pe¿a,19288,1
+candidate,Atlántida,Nacional,Carmen Esperanza Rivera Pagoaga,37480,1
+candidate,Atlántida,Nacional,Daniel  Flores Velasquez,32376,0
+candidate,Atlántida,Nacional,Francis Yolanda Castro Rodriguez,27206,0
+candidate,Atlántida,Nacional,Iveth Obdulia Matute Betancourth,26339,0
+candidate,Atlántida,Nacional,Marcio Rene Espinal Cardona,31223,0
+candidate,Atlántida,Nacional,Marco Antonio Midence Milla,32300,0
+candidate,Atlántida,Nacional,Ramon Antonio Leva Bulnes,33558,1
 candidate,Atlántida,Nacional,Rodolfo  Irias Navas,37865,1
 candidate,Atlántida,PAC,Carlos Arturo San Martin Amador,9264,0
-candidate,Atlántida,PAC,Carlos Mauricio Arge¿al Castro,9181,0
-candidate,Atlántida,PAC,Gabriela  Guzman Mejia,9150,0
-candidate,Atlántida,PAC,Kritza Jerlin Perez Gallegos,12834,1
-candidate,Atlántida,PAC,Marie Jeannette Kawas Giacoman,11524,0
-candidate,Atlántida,PAC,Obdulio  Madrid Zeron,8993,0
-candidate,Atlántida,PAC,Ruth  Bonilla Argueta,9063,0
-candidate,Atlántida,PAC,Tomas Antonio Ramirez Hernandez,12156,0
-candidate,Atlántida,PAP,Dagoberto  Cruz Santos,1035,0
+candidate,Atlántida,PAC,Carlos Mauricio Arge¿al Castro,9191,0
+candidate,Atlántida,PAC,Gabriela  Guzman Mejia,9171,0
+candidate,Atlántida,PAC,Kritza Jerlin Perez Gallegos,12831,1
+candidate,Atlántida,PAC,Marie Jeannette Kawas Giacoman,11518,0
+candidate,Atlántida,PAC,Obdulio  Madrid Zeron,9110,0
+candidate,Atlántida,PAC,Ruth  Bonilla Argueta,9065,0
+candidate,Atlántida,PAC,Tomas Antonio Ramirez Hernandez,12340,0
+candidate,Atlántida,PAP,Dagoberto  Cruz Santos,1038,0
 candidate,Atlántida,PAP,Fermin  Corrales Estrada,298,0
-candidate,Atlántida,PAP,Francisco Jose Alvarado Zaldivar,271,0
-candidate,Atlántida,PAP,Mirian Elizabeth Villanueva Blanco,515,0
-candidate,Atlántida,PAP,Mirtha Esther Hernandez Dolmo,934,0
-candidate,Atlántida,PAP,Otilia Janin Carrasco Ponce,844,0
-candidate,Atlántida,PAP,Sila Claritza Mena Burgos,495,0
+candidate,Atlántida,PAP,Francisco Jose Alvarado Zaldivar,269,0
+candidate,Atlántida,PAP,Mirian Elizabeth Villanueva Blanco,518,0
+candidate,Atlántida,PAP,Mirtha Esther Hernandez Dolmo,933,0
+candidate,Atlántida,PAP,Otilia Janin Carrasco Ponce,744,0
+candidate,Atlántida,PAP,Sila Claritza Mena Burgos,484,0
 candidate,Atlántida,PAP,Victor Daniel Escobar Pe¿a,312,0
-candidate,Atlántida,PINU,Bernard  Martinez Valerio,4171,0
+candidate,Atlántida,PINU,Bernard  Martinez Valerio,4179,0
 candidate,Atlántida,PINU,Elbin Antonio Orellana Bermudez,776,0
-candidate,Atlántida,PINU,Gladys Lizzette Zapata Guerrero,1677,0
-candidate,Atlántida,PINU,Guillermo  Escoto Rodriguez,1085,0
+candidate,Atlántida,PINU,Gladys Lizzette Zapata Guerrero,1683,0
+candidate,Atlántida,PINU,Guillermo  Escoto Rodriguez,1037,0
 candidate,Atlántida,PINU,Lidia Zenaida Fernandez Garcia,863,0
-candidate,Atlántida,PINU,Melida Juliana Quevedo Ramirez,1343,0
-candidate,Atlántida,PINU,Warren  Lopez Flores,543,0
-candidate,Atlántida,PINU,Yeimy Lizbeth Zaldivar Castellanos,744,0
+candidate,Atlántida,PINU,Melida Juliana Quevedo Ramirez,1344,0
+candidate,Atlántida,PINU,Warren  Lopez Flores,485,0
+candidate,Atlántida,PINU,Yeimy Lizbeth Zaldivar Castellanos,743,0
 candidate,Atlántida,UD,Aldo Javier Cardona Alvarado,1814,0
 candidate,Atlántida,UD,Alix Virginia Zapata ,677,0
 candidate,Atlántida,UD,Darwin Alexander Montoya Ayala,707,0
 candidate,Atlántida,UD,Javier Arquimides Martinez Reyes,1772,0
-candidate,Atlántida,UD,Maria  Alberto Hernandez,1894,0
-candidate,Atlántida,UD,Noemi Yadira Casta¿eda Lopez,994,0
-candidate,Atlántida,UD,Pedro  Guevara ,1492,0
-candidate,Atlántida,UD,Ramon Nectaly Guardado ,1392,0
+candidate,Atlántida,UD,Maria  Alberto Hernandez,1896,0
+candidate,Atlántida,UD,Noemi Yadira Casta¿eda Lopez,992,0
+candidate,Atlántida,UD,Pedro  Guevara ,1489,0
+candidate,Atlántida,UD,Ramon Nectaly Guardado ,1387,0
 candidate,Choluteca,DC,Brenda Isolina Erazo Herrera,1004,0
 candidate,Choluteca,DC,Elmer Noe Garcia Moran,1642,0
 candidate,Choluteca,DC,Jorge Manuel Lazo ,908,0
@@ -189,69 +189,69 @@ candidate,Colón,UD,Adolfo  Casta¿eda Padilla,657,0
 candidate,Colón,UD,Blanca Sulema Perez Sambula,285,0
 candidate,Colón,UD,Coronado  Avila Munguia,574,0
 candidate,Colón,UD,Glirian Yanira Bardales Garrido,241,0
-candidate,Comayagua,DC,Ada Eliza Fernandez Morales,844,0
-candidate,Comayagua,DC,Jorge Alberto Abrego ,1218,0
-candidate,Comayagua,DC,Laura Marina Escoto Mejia,551,0
-candidate,Comayagua,DC,Maria Evangelina Chaver Banegas,678,0
-candidate,Comayagua,DC,Rene Alexander Ventura C,672,0
-candidate,Comayagua,DC,Santos Humberto Hernandez Mejia,1344,0
-candidate,Comayagua,DC,Tegualda Angela Gaete Santos,763,0
-candidate,Comayagua,FAPER,Bernardino  Espinoza Palma,416,0
-candidate,Comayagua,FAPER,Dimas  Rivera Discua,1423,0
-candidate,Comayagua,FAPER,Ena Felicita Guillen Escobar,440,0
-candidate,Comayagua,FAPER,Jose Dolores Urquia Lara,1903,0
+candidate,Comayagua,DC,Ada Eliza Fernandez Morales,851,0
+candidate,Comayagua,DC,Jorge Alberto Abrego ,1220,0
+candidate,Comayagua,DC,Laura Marina Escoto Mejia,565,0
+candidate,Comayagua,DC,Maria Evangelina Chaver Banegas,675,0
+candidate,Comayagua,DC,Rene Alexander Ventura C,681,0
+candidate,Comayagua,DC,Santos Humberto Hernandez Mejia,1348,0
+candidate,Comayagua,DC,Tegualda Angela Gaete Santos,764,0
+candidate,Comayagua,FAPER,Bernardino  Espinoza Palma,417,0
+candidate,Comayagua,FAPER,Dimas  Rivera Discua,1434,0
+candidate,Comayagua,FAPER,Ena Felicita Guillen Escobar,443,0
+candidate,Comayagua,FAPER,Jose Dolores Urquia Lara,1904,0
 candidate,Comayagua,FAPER,Maria Isnelda Mejia Cantor,201,0
-candidate,Comayagua,FAPER,Tirso Sady Ulloa Ulloa,1493,0
-candidate,Comayagua,FAPER,Yeny Yolanda Dominguez Aguilar,512,0
-candidate,Comayagua,LIBRE,Ada Evila Serrano Nu¿ez,26523,0
-candidate,Comayagua,LIBRE,Ancelmo  Romero Ulloa,26899,0
-candidate,Comayagua,LIBRE,Fany Patricia Valladares Ortega,29391,1
-candidate,Comayagua,LIBRE,Juan Carlos Avila Avila,24428,0
-candidate,Comayagua,LIBRE,Juan Ramon Flores Buezo,28051,0
-candidate,Comayagua,LIBRE,Salomon  Castillo Osorio,26755,0
-candidate,Comayagua,LIBRE,Yavhe Salvador Sabillon Cruz,30637,1
-candidate,Comayagua,Liberal,Gloria Argentina Bonilla Bonilla,33080,1
-candidate,Comayagua,Liberal,Guillermo  Martinez Suazo,20784,0
-candidate,Comayagua,Liberal,Jose Armando Cerros Chavez,22939,0
-candidate,Comayagua,Liberal,Martha Lidya Rivera Torres,10810,0
-candidate,Comayagua,Liberal,Olman Danery Maldonado Rubio,17411,0
-candidate,Comayagua,Liberal,Valentin  Suarez Osejo,21550,0
-candidate,Comayagua,Liberal,Victor Manuel Barahona ,21928,0
-candidate,Comayagua,Nacional,Ana Belinda Valenzuela Duarte,34016,0
-candidate,Comayagua,Nacional,Denis Roberto Velasquez Yanes,40582,0
-candidate,Comayagua,Nacional,Gerardo Tulio Martinez Pineda,43562,1
-candidate,Comayagua,Nacional,Jose Maria Martinez Valenzuela,49681,1
-candidate,Comayagua,Nacional,Miguel Edgardo Martinez Pineda,45021,1
-candidate,Comayagua,Nacional,Oscar Emilio Cruz Pineda,34444,0
-candidate,Comayagua,Nacional,Santos  Discua Zepeda,33487,0
-candidate,Comayagua,PAC,Alma Karina Mejia Sanchez,9207,0
-candidate,Comayagua,PAC,Gerardo Javier Solorzano Leiva,10848,0
-candidate,Comayagua,PAC,Jose Armando Calderon Ramirez,8876,0
-candidate,Comayagua,PAC,Liliam Yaneth Villatoro Garcia,12542,1
-candidate,Comayagua,PAC,Luciano Antonio Paz Arevalo,9875,0
-candidate,Comayagua,PAC,Miguel Virgilio Ramirez Lopez,8805,0
-candidate,Comayagua,PAC,Walterina  Ramirez Flores,8561,0
-candidate,Comayagua,PAP,Diana Lourdes Lopez Sierra,3516,0
+candidate,Comayagua,FAPER,Tirso Sady Ulloa Ulloa,1503,0
+candidate,Comayagua,FAPER,Yeny Yolanda Dominguez Aguilar,510,0
+candidate,Comayagua,LIBRE,Ada Evila Serrano Nu¿ez,26636,0
+candidate,Comayagua,LIBRE,Ancelmo  Romero Ulloa,27067,0
+candidate,Comayagua,LIBRE,Fany Patricia Valladares Ortega,29570,1
+candidate,Comayagua,LIBRE,Juan Carlos Avila Avila,24579,0
+candidate,Comayagua,LIBRE,Juan Ramon Flores Buezo,28191,0
+candidate,Comayagua,LIBRE,Salomon  Castillo Osorio,26894,0
+candidate,Comayagua,LIBRE,Yavhe Salvador Sabillon Cruz,30840,1
+candidate,Comayagua,Liberal,Gloria Argentina Bonilla Bonilla,33225,1
+candidate,Comayagua,Liberal,Guillermo  Martinez Suazo,20855,0
+candidate,Comayagua,Liberal,Jose Armando Cerros Chavez,23071,0
+candidate,Comayagua,Liberal,Martha Lidya Rivera Torres,10851,0
+candidate,Comayagua,Liberal,Olman Danery Maldonado Rubio,17418,0
+candidate,Comayagua,Liberal,Valentin  Suarez Osejo,21718,0
+candidate,Comayagua,Liberal,Victor Manuel Barahona ,22090,0
+candidate,Comayagua,Nacional,Ana Belinda Valenzuela Duarte,34336,0
+candidate,Comayagua,Nacional,Denis Roberto Velasquez Yanes,41089,0
+candidate,Comayagua,Nacional,Gerardo Tulio Martinez Pineda,43818,1
+candidate,Comayagua,Nacional,Jose Maria Martinez Valenzuela,49918,1
+candidate,Comayagua,Nacional,Miguel Edgardo Martinez Pineda,45474,1
+candidate,Comayagua,Nacional,Oscar Emilio Cruz Pineda,34768,0
+candidate,Comayagua,Nacional,Santos  Discua Zepeda,33797,0
+candidate,Comayagua,PAC,Alma Karina Mejia Sanchez,9217,0
+candidate,Comayagua,PAC,Gerardo Javier Solorzano Leiva,10841,0
+candidate,Comayagua,PAC,Jose Armando Calderon Ramirez,8883,0
+candidate,Comayagua,PAC,Liliam Yaneth Villatoro Garcia,12569,1
+candidate,Comayagua,PAC,Luciano Antonio Paz Arevalo,9979,0
+candidate,Comayagua,PAC,Miguel Virgilio Ramirez Lopez,8809,0
+candidate,Comayagua,PAC,Walterina  Ramirez Flores,8584,0
+candidate,Comayagua,PAP,Diana Lourdes Lopez Sierra,3521,0
 candidate,Comayagua,PAP,Francisco  Paz Osorio,508,0
-candidate,Comayagua,PAP,Jose Alberto Melgar ,1486,0
-candidate,Comayagua,PAP,Luther Celestino Hyde Zavala,1139,0
+candidate,Comayagua,PAP,Jose Alberto Melgar ,1492,0
+candidate,Comayagua,PAP,Luther Celestino Hyde Zavala,1140,0
 candidate,Comayagua,PAP,Mauricio  Bonilla Garcia,465,0
 candidate,Comayagua,PAP,Miriam Hayde Valdivieso Argueta,1245,0
-candidate,Comayagua,PAP,Nina Rosario Rodriguez Ramos,450,0
-candidate,Comayagua,PINU,Alba Carixa Maradiaga Mejia,445,0
-candidate,Comayagua,PINU,Antonia  Alvarado ,1414,0
-candidate,Comayagua,PINU,Francisco Willian Caballero Paredes,1688,0
-candidate,Comayagua,PINU,Geovani  Soto ,492,0
-candidate,Comayagua,PINU,Karen Iveth Benitez Morales,816,0
+candidate,Comayagua,PAP,Nina Rosario Rodriguez Ramos,449,0
+candidate,Comayagua,PINU,Alba Carixa Maradiaga Mejia,440,0
+candidate,Comayagua,PINU,Antonia  Alvarado ,1416,0
+candidate,Comayagua,PINU,Francisco Willian Caballero Paredes,1692,0
+candidate,Comayagua,PINU,Geovani  Soto ,486,0
+candidate,Comayagua,PINU,Karen Iveth Benitez Morales,811,0
 candidate,Comayagua,PINU,Maria Zonia Pacheco Carranza,635,0
-candidate,Comayagua,PINU,Mario Alexis Meza Duron,677,0
-candidate,Comayagua,UD,Derling Ondina Alfaro Carranza,674,0
-candidate,Comayagua,UD,Dunia Lorena Lopez Canales,705,0
-candidate,Comayagua,UD,Gloria Julissa Rivera Padilla,634,0
-candidate,Comayagua,UD,Martius Leonel Maga¿a Centeno,805,0
+candidate,Comayagua,PINU,Mario Alexis Meza Duron,686,0
+candidate,Comayagua,UD,Derling Ondina Alfaro Carranza,675,0
+candidate,Comayagua,UD,Dunia Lorena Lopez Canales,707,0
+candidate,Comayagua,UD,Gloria Julissa Rivera Padilla,635,0
+candidate,Comayagua,UD,Martius Leonel Maga¿a Centeno,802,0
 candidate,Comayagua,UD,Miguel Angel Galeano Mejia,1019,0
-candidate,Comayagua,UD,Orlyn Daniel Flores Mejia,2914,0
-candidate,Comayagua,UD,Saul Benjamin Zapata Mejia,3335,0
+candidate,Comayagua,UD,Orlyn Daniel Flores Mejia,2916,0
+candidate,Comayagua,UD,Saul Benjamin Zapata Mejia,3337,0
 candidate,Copán,DC,Donis Marlen Caceres Mejia,220,0
 candidate,Copán,DC,Dunia Lisseth Mata Chinchilla,368,0
 candidate,Copán,DC,Eddas Mauricio Guevara Hernandez,230,0
@@ -301,240 +301,240 @@ candidate,Copán,UD-FAPER,Leidy Iveth Gutierrez Cortes,469,0
 candidate,Copán,UD-FAPER,Miguel Angel Lopez Contreras,1018,0
 candidate,Copán,UD-FAPER,Miriam Vanessa Cruz Mu¿oz,361,0
 candidate,Copán,UD-FAPER,Raul Antonio Madrid Argueta,745,0
-candidate,Cortés,DC,Ana Leonor Velasquez Yonng,3264,0
-candidate,Cortés,DC,Aquiles Isaac Calix Mejia,2748,0
-candidate,Cortés,DC,Axel Antonio Quiroz Colindres,1797,0
-candidate,Cortés,DC,Carlos Aguinaldo Turcios Matute,6413,0
-candidate,Cortés,DC,Carlos Javier Funez Cardoza,2548,0
-candidate,Cortés,DC,Celestino  Argueta ,4127,0
-candidate,Cortés,DC,Dalia Suyapa Dubon Aleman,3391,0
-candidate,Cortés,DC,Dunia Aracely Lopez Lopez,6028,0
-candidate,Cortés,DC,Fredesvinda  Gutierrez Ortiz,4140,0
-candidate,Cortés,DC,Irma Amelia Cerrato Martinez,3743,0
-candidate,Cortés,DC,Jeanette Nohemy Guerra Guerra,1701,0
-candidate,Cortés,DC,Jorge Adalberto Rodriguez Cardenas,3012,0
-candidate,Cortés,DC,Jose Ricardo Sierra Chavarria,2541,0
-candidate,Cortés,DC,Luis Antonio Flores Velasquez,1747,0
-candidate,Cortés,DC,Luis Rafael Ramirez ,2528,0
-candidate,Cortés,DC,Mario Alberto Soto Valle,2839,0
-candidate,Cortés,DC,Norman  Portillo Velasquez,5500,0
-candidate,Cortés,DC,Ruth Esther Castro Gomez,2776,0
-candidate,Cortés,DC,Sadia Yarardin Argueta Hernandez,7404,0
-candidate,Cortés,DC,Timoteo  Ochoa Diaz,3560,0
+candidate,Cortés,DC,Ana Leonor Velasquez Yonng,3260,0
+candidate,Cortés,DC,Aquiles Isaac Calix Mejia,2755,0
+candidate,Cortés,DC,Axel Antonio Quiroz Colindres,1800,0
+candidate,Cortés,DC,Carlos Aguinaldo Turcios Matute,6416,0
+candidate,Cortés,DC,Carlos Javier Funez Cardoza,2551,0
+candidate,Cortés,DC,Celestino  Argueta ,4037,0
+candidate,Cortés,DC,Dalia Suyapa Dubon Aleman,3394,0
+candidate,Cortés,DC,Dunia Aracely Lopez Lopez,6034,0
+candidate,Cortés,DC,Fredesvinda  Gutierrez Ortiz,4142,0
+candidate,Cortés,DC,Irma Amelia Cerrato Martinez,3681,0
+candidate,Cortés,DC,Jeanette Nohemy Guerra Guerra,1703,0
+candidate,Cortés,DC,Jorge Adalberto Rodriguez Cardenas,3000,0
+candidate,Cortés,DC,Jose Ricardo Sierra Chavarria,2539,0
+candidate,Cortés,DC,Luis Antonio Flores Velasquez,1748,0
+candidate,Cortés,DC,Luis Rafael Ramirez ,2519,0
+candidate,Cortés,DC,Mario Alberto Soto Valle,2837,0
+candidate,Cortés,DC,Norman  Portillo Velasquez,5382,0
+candidate,Cortés,DC,Ruth Esther Castro Gomez,2777,0
+candidate,Cortés,DC,Sadia Yarardin Argueta Hernandez,7407,0
+candidate,Cortés,DC,Timoteo  Ochoa Diaz,3552,0
 candidate,Cortés,FAPER,Alejandro  Rodriguez Bardales,1200,0
-candidate,Cortés,FAPER,Alfonzo Felipe Rosado Galeano,1406,0
+candidate,Cortés,FAPER,Alfonzo Felipe Rosado Galeano,1405,0
 candidate,Cortés,FAPER,Aster Ascanio Alegria Castellanos,1941,0
-candidate,Cortés,FAPER,Edith Xiomara Cruz Hernandez,971,0
-candidate,Cortés,FAPER,Gary Alexander Rodriguez Villanueva,1328,0
-candidate,Cortés,FAPER,Gloria Esmeralda Castro Serandia,1707,0
-candidate,Cortés,FAPER,Irma Cristela Hernandez ,3349,0
-candidate,Cortés,FAPER,Italo Marcelo Jephte Garay Barrientos,1008,0
-candidate,Cortés,FAPER,Ivan Francisco Mejia Flores,1460,0
-candidate,Cortés,FAPER,Jesus  Ortega Garcia,1441,0
-candidate,Cortés,FAPER,Jony Nectali Rosales Ramos,2492,0
-candidate,Cortés,FAPER,Josefina  Morales Pineda,1333,0
+candidate,Cortés,FAPER,Edith Xiomara Cruz Hernandez,963,0
+candidate,Cortés,FAPER,Gary Alexander Rodriguez Villanueva,1322,0
+candidate,Cortés,FAPER,Gloria Esmeralda Castro Serandia,1706,0
+candidate,Cortés,FAPER,Irma Cristela Hernandez ,3353,0
+candidate,Cortés,FAPER,Italo Marcelo Jephte Garay Barrientos,999,0
+candidate,Cortés,FAPER,Ivan Francisco Mejia Flores,1459,0
+candidate,Cortés,FAPER,Jesus  Ortega Garcia,1438,0
+candidate,Cortés,FAPER,Jony Nectali Rosales Ramos,2494,0
+candidate,Cortés,FAPER,Josefina  Morales Pineda,1338,0
 candidate,Cortés,FAPER,Kelvin Hernan Zaldivar Lopez,1131,0
-candidate,Cortés,FAPER,Marco Antonio Bhaday Chavez,4699,0
-candidate,Cortés,FAPER,Marlen Yaneth Paz Paz,1585,0
-candidate,Cortés,FAPER,Marvin Emilio Funez Rodriguez,1206,0
-candidate,Cortés,FAPER,Melvin Omar Bronfield Aguirre,1363,0
-candidate,Cortés,FAPER,Osmara  Argueta Lozano,1379,0
-candidate,Cortés,FAPER,Reyna Maritza Torres Mejia,2163,0
-candidate,Cortés,FAPER,Sara  Ramirez Serrano,4999,0
-candidate,Cortés,LIBRE,Ana Carolina Cartagena Gamero,74976,0
-candidate,Cortés,LIBRE,Dulce Maria Villanueva Sanchez,76027,0
-candidate,Cortés,LIBRE,Gladis Esmeralda Delcid Nieto,68354,0
-candidate,Cortés,LIBRE,Jose Arnulfo Aguilar ,71751,0
-candidate,Cortés,LIBRE,Jose Edgardo Castro Rodriguez,90625,1
-candidate,Cortés,LIBRE,Jose Eduardo Coto Barnica,78581,1
-candidate,Cortés,LIBRE,Jose Luis Cruz Rivera,82398,1
-candidate,Cortés,LIBRE,Laura Elena Noriega Bardales,78359,0
-candidate,Cortés,LIBRE,Luis Alonso Garcia Bustamante,70646,0
-candidate,Cortés,LIBRE,Marco Tulio Del Arca ,73330,0
-candidate,Cortés,LIBRE,Orfilia Esperanza Carranza Medina,75672,0
-candidate,Cortés,LIBRE,Patricia Suyapa Murillo Gutierrez,72128,0
-candidate,Cortés,LIBRE,Rene  Altamirano Interiano,69853,0
-candidate,Cortés,LIBRE,Rene Bladimir Gonzales Alfaro,76442,0
-candidate,Cortés,LIBRE,Reyna Concepcion Pineda Ramos,73984,0
-candidate,Cortés,LIBRE,Ruy  Diaz Diaz,68457,0
-candidate,Cortés,LIBRE,Scherly Melissa Arriaga Gomez,85445,1
-candidate,Cortés,LIBRE,Silvia Bessy Ayala Figueroa,78112,0
-candidate,Cortés,LIBRE,Victor Manuel Rosa Ramos,72440,0
-candidate,Cortés,LIBRE,Yenny Yessenia Murillo Pe¿a,78679,1
-candidate,Cortés,Liberal,Angel Dario Banegas Leiva,70125,1
-candidate,Cortés,Liberal,Carlos Antonio Martinez Zepeda,55798,0
-candidate,Cortés,Liberal,Carolina  Velasquez Matamoros,46635,0
-candidate,Cortés,Liberal,Cinthya Pamela Menocal Turcios,41889,0
-candidate,Cortés,Liberal,Felipa Elizabeth Avila Jimenez,50075,0
+candidate,Cortés,FAPER,Marco Antonio Bhaday Chavez,4795,0
+candidate,Cortés,FAPER,Marlen Yaneth Paz Paz,1587,0
+candidate,Cortés,FAPER,Marvin Emilio Funez Rodriguez,1207,0
+candidate,Cortés,FAPER,Melvin Omar Bronfield Aguirre,1365,0
+candidate,Cortés,FAPER,Osmara  Argueta Lozano,1371,0
+candidate,Cortés,FAPER,Reyna Maritza Torres Mejia,2157,0
+candidate,Cortés,FAPER,Sara  Ramirez Serrano,5006,0
+candidate,Cortés,LIBRE,Ana Carolina Cartagena Gamero,75046,0
+candidate,Cortés,LIBRE,Dulce Maria Villanueva Sanchez,76040,0
+candidate,Cortés,LIBRE,Gladis Esmeralda Delcid Nieto,68391,0
+candidate,Cortés,LIBRE,Jose Arnulfo Aguilar ,71749,0
+candidate,Cortés,LIBRE,Jose Edgardo Castro Rodriguez,90643,1
+candidate,Cortés,LIBRE,Jose Eduardo Coto Barnica,78578,1
+candidate,Cortés,LIBRE,Jose Luis Cruz Rivera,82407,1
+candidate,Cortés,LIBRE,Laura Elena Noriega Bardales,78360,0
+candidate,Cortés,LIBRE,Luis Alonso Garcia Bustamante,70642,0
+candidate,Cortés,LIBRE,Marco Tulio Del Arca ,73449,0
+candidate,Cortés,LIBRE,Orfilia Esperanza Carranza Medina,75675,0
+candidate,Cortés,LIBRE,Patricia Suyapa Murillo Gutierrez,72129,0
+candidate,Cortés,LIBRE,Rene  Altamirano Interiano,69867,0
+candidate,Cortés,LIBRE,Rene Bladimir Gonzales Alfaro,76447,0
+candidate,Cortés,LIBRE,Reyna Concepcion Pineda Ramos,73969,0
+candidate,Cortés,LIBRE,Ruy  Diaz Diaz,68401,0
+candidate,Cortés,LIBRE,Scherly Melissa Arriaga Gomez,85293,1
+candidate,Cortés,LIBRE,Silvia Bessy Ayala Figueroa,78103,0
+candidate,Cortés,LIBRE,Victor Manuel Rosa Ramos,72457,0
+candidate,Cortés,LIBRE,Yenny Yessenia Murillo Pe¿a,78719,1
+candidate,Cortés,Liberal,Angel Dario Banegas Leiva,70157,1
+candidate,Cortés,Liberal,Carlos Antonio Martinez Zepeda,55804,0
+candidate,Cortés,Liberal,Carolina  Velasquez Matamoros,46600,0
+candidate,Cortés,Liberal,Cinthya Pamela Menocal Turcios,41926,0
+candidate,Cortés,Liberal,Felipa Elizabeth Avila Jimenez,50127,0
 candidate,Cortés,Liberal,Georgina Yamileth Barahona Lopez,49870,0
-candidate,Cortés,Liberal,Ingrid Alina Montes Rendon,40703,0
-candidate,Cortés,Liberal,Jorge Antonio Camacho Fajardo,36104,0
-candidate,Cortés,Liberal,Jose Antonio Barahona Zelaya,43636,0
-candidate,Cortés,Liberal,Jose Antonio Fernandez Flores,41555,0
-candidate,Cortés,Liberal,Juan Jorge Canahuati Sagastume,51793,0
-candidate,Cortés,Liberal,Justa Aurelia Suazo Bernardez,41257,0
-candidate,Cortés,Liberal,Maria Dolores Guardado ,46440,0
-candidate,Cortés,Liberal,Marlon Guillermo Lara Orellana,79766,1
-candidate,Cortés,Liberal,Miguel Angel Barahona Lopez,35438,0
-candidate,Cortés,Liberal,Norma Haydee Calderon Arias,44650,0
-candidate,Cortés,Liberal,Rafael Tadeo Nodarse Banegas,56689,1
-candidate,Cortés,Liberal,Reyna Virginia Alvarado Barahona,44345,0
-candidate,Cortés,Liberal,Ricardo Efrain Figueroa Giron,37269,0
-candidate,Cortés,Liberal,Wenceslao  Lara Orellana,49656,0
-candidate,Cortés,Nacional,Alberto  Chedrani Casta¿eda,92703,1
-candidate,Cortés,Nacional,Arturo  Benda¿a Pinel,80674,1
-candidate,Cortés,Nacional,Brenda Mercedes Flores Serrano,72681,0
-candidate,Cortés,Nacional,Eliseo Noel Mejia Castillo,66169,0
-candidate,Cortés,Nacional,Ernesto  Lazarus Pineda,65650,0
-candidate,Cortés,Nacional,Francisco Gabriel Garcia Ardon,75321,0
-candidate,Cortés,Nacional,Iris Yasmin Perdomo Sandoval,61794,0
-candidate,Cortés,Nacional,Jose Antonio Montalvan Villafranca,70636,0
-candidate,Cortés,Nacional,Leda Lizethe Garcia Pagan,76564,1
-candidate,Cortés,Nacional,Leo Yamir Valentino Castellon Hirezi,75811,0
-candidate,Cortés,Nacional,Max Alejandro Gonzales Sabillon,69300,0
-candidate,Cortés,Nacional,Melvin  Ferraro Lainez,69991,0
-candidate,Cortés,Nacional,Omahara  Hernandez Trujillo,69393,0
-candidate,Cortés,Nacional,Reynaldo Geovanny Ekonomo Funes,74300,0
-candidate,Cortés,Nacional,Roxana Geraldina Gonzalez Marmol,75047,0
-candidate,Cortés,Nacional,Victoria  Carrasco Garcia,66938,0
-candidate,Cortés,Nacional,Welsy Milena Vasquez Lopez,79023,1
-candidate,Cortés,Nacional,Wendy Carolina Estevez Paredes,67296,0
-candidate,Cortés,Nacional,Yaudet  Burbara Canahuati,76552,1
-candidate,Cortés,Nacional,Zoila Wiladina Chiang Cortes,72007,0
-candidate,Cortés,PAC,Anibal Javier Calix Funez,88326,0
-candidate,Cortés,PAC,Carlos Donanim Montes Orellana,81066,0
-candidate,Cortés,PAC,Catalina  Ponce Posas,74109,0
-candidate,Cortés,PAC,Edy Mauricio Pe¿a Carias,83698,0
-candidate,Cortés,PAC,Erasmo Antonio Sanabria Chinchilla,86869,0
-candidate,Cortés,PAC,Fatima Patricia Mena Baide,101700,1
-candidate,Cortés,PAC,Jaime Enrique Villegas Roura,103264,1
-candidate,Cortés,PAC,Jose Medardo Caballero Moncada,78801,0
-candidate,Cortés,PAC,Juan Ramon Lopez Bendeck,84995,0
-candidate,Cortés,PAC,Katty Ester Sosa Garcia,88412,1
-candidate,Cortés,PAC,Luis Rene Oliva Romero,89749,1
-candidate,Cortés,PAC,Luis Rolando Redondo Guifarro,100297,1
-candidate,Cortés,PAC,Margarita Zulema Hernandez Gomez,77625,0
-candidate,Cortés,PAC,Maria Erlinda Enamorado Cerna,75668,0
-candidate,Cortés,PAC,Roberto  Valenzuela Medina,85460,0
-candidate,Cortés,PAC,Rolando Enrique Lopez ,85772,0
-candidate,Cortés,PAC,Veronica  Torres Rivera,85182,0
-candidate,Cortés,PAC,Veronica Isabel Trochez Sabillon,81037,0
-candidate,Cortés,PAC,Walter Alex Banegas Aguilera,91474,1
-candidate,Cortés,PAC,Yesica Carolina Mu¿oz Gonzales,83261,0
-candidate,Cortés,PAP,Ana Eysabel Gomez ,1693,0
-candidate,Cortés,PAP,Annuar Alfredo Suazo Kattan,1320,0
-candidate,Cortés,PAP,Brenda Patricia Enamorado Alvarado,4576,0
-candidate,Cortés,PAP,Cesar Augusto Hernandez Pe¿a,2429,0
+candidate,Cortés,Liberal,Ingrid Alina Montes Rendon,40667,0
+candidate,Cortés,Liberal,Jorge Antonio Camacho Fajardo,36120,0
+candidate,Cortés,Liberal,Jose Antonio Barahona Zelaya,43698,0
+candidate,Cortés,Liberal,Jose Antonio Fernandez Flores,41590,0
+candidate,Cortés,Liberal,Juan Jorge Canahuati Sagastume,51868,0
+candidate,Cortés,Liberal,Justa Aurelia Suazo Bernardez,41299,0
+candidate,Cortés,Liberal,Maria Dolores Guardado ,46430,0
+candidate,Cortés,Liberal,Marlon Guillermo Lara Orellana,79833,1
+candidate,Cortés,Liberal,Miguel Angel Barahona Lopez,35480,0
+candidate,Cortés,Liberal,Norma Haydee Calderon Arias,44651,0
+candidate,Cortés,Liberal,Rafael Tadeo Nodarse Banegas,56733,1
+candidate,Cortés,Liberal,Reyna Virginia Alvarado Barahona,44343,0
+candidate,Cortés,Liberal,Ricardo Efrain Figueroa Giron,37283,0
+candidate,Cortés,Liberal,Wenceslao  Lara Orellana,49690,0
+candidate,Cortés,Nacional,Alberto  Chedrani Casta¿eda,92718,1
+candidate,Cortés,Nacional,Arturo  Benda¿a Pinel,80746,1
+candidate,Cortés,Nacional,Brenda Mercedes Flores Serrano,72701,0
+candidate,Cortés,Nacional,Eliseo Noel Mejia Castillo,66166,0
+candidate,Cortés,Nacional,Ernesto  Lazarus Pineda,65795,0
+candidate,Cortés,Nacional,Francisco Gabriel Garcia Ardon,75400,0
+candidate,Cortés,Nacional,Iris Yasmin Perdomo Sandoval,61835,0
+candidate,Cortés,Nacional,Jose Antonio Montalvan Villafranca,70696,0
+candidate,Cortés,Nacional,Leda Lizethe Garcia Pagan,76459,1
+candidate,Cortés,Nacional,Leo Yamir Valentino Castellon Hirezi,75894,0
+candidate,Cortés,Nacional,Max Alejandro Gonzales Sabillon,69361,0
+candidate,Cortés,Nacional,Melvin  Ferraro Lainez,70031,0
+candidate,Cortés,Nacional,Omahara  Hernandez Trujillo,69459,0
+candidate,Cortés,Nacional,Reynaldo Geovanny Ekonomo Funes,74316,0
+candidate,Cortés,Nacional,Roxana Geraldina Gonzalez Marmol,75105,0
+candidate,Cortés,Nacional,Victoria  Carrasco Garcia,66973,0
+candidate,Cortés,Nacional,Welsy Milena Vasquez Lopez,79015,1
+candidate,Cortés,Nacional,Wendy Carolina Estevez Paredes,67362,0
+candidate,Cortés,Nacional,Yaudet  Burbara Canahuati,76600,1
+candidate,Cortés,Nacional,Zoila Wiladina Chiang Cortes,72019,0
+candidate,Cortés,PAC,Anibal Javier Calix Funez,88546,1
+candidate,Cortés,PAC,Carlos Donanim Montes Orellana,81328,0
+candidate,Cortés,PAC,Catalina  Ponce Posas,74268,0
+candidate,Cortés,PAC,Edy Mauricio Pe¿a Carias,83678,0
+candidate,Cortés,PAC,Erasmo Antonio Sanabria Chinchilla,86938,0
+candidate,Cortés,PAC,Fatima Patricia Mena Baide,101847,1
+candidate,Cortés,PAC,Jaime Enrique Villegas Roura,103366,1
+candidate,Cortés,PAC,Jose Medardo Caballero Moncada,79121,0
+candidate,Cortés,PAC,Juan Ramon Lopez Bendeck,84956,0
+candidate,Cortés,PAC,Katty Ester Sosa Garcia,88493,0
+candidate,Cortés,PAC,Luis Rene Oliva Romero,89819,1
+candidate,Cortés,PAC,Luis Rolando Redondo Guifarro,100299,1
+candidate,Cortés,PAC,Margarita Zulema Hernandez Gomez,77623,0
+candidate,Cortés,PAC,Maria Erlinda Enamorado Cerna,75719,0
+candidate,Cortés,PAC,Roberto  Valenzuela Medina,85525,0
+candidate,Cortés,PAC,Rolando Enrique Lopez ,85885,0
+candidate,Cortés,PAC,Veronica  Torres Rivera,85355,0
+candidate,Cortés,PAC,Veronica Isabel Trochez Sabillon,81349,0
+candidate,Cortés,PAC,Walter Alex Banegas Aguilera,91523,1
+candidate,Cortés,PAC,Yesica Carolina Mu¿oz Gonzales,83399,0
+candidate,Cortés,PAP,Ana Eysabel Gomez ,1695,0
+candidate,Cortés,PAP,Annuar Alfredo Suazo Kattan,1319,0
+candidate,Cortés,PAP,Brenda Patricia Enamorado Alvarado,4571,0
+candidate,Cortés,PAP,Cesar Augusto Hernandez Pe¿a,2433,0
 candidate,Cortés,PAP,Digna Angelica Lara Espinoza,1143,0
-candidate,Cortés,PAP,Eucebio  Acosta Zuniga,1637,0
-candidate,Cortés,PAP,Felix Justo Freije Pe¿a,1767,0
-candidate,Cortés,PAP,Gabriela Rosario Vasquez Aguilar,3337,0
-candidate,Cortés,PAP,Gladys Patricia Enamorado Padilla,3230,0
-candidate,Cortés,PAP,Gregoria  Ocampo Zuniga,1466,0
-candidate,Cortés,PAP,Irwing Lindssay Guardado Veroy,2502,0
-candidate,Cortés,PAP,Jesus  Enamorado Alvarado,3971,0
-candidate,Cortés,PAP,Jordi Ricardo Monta¿ola Lopez,2893,0
-candidate,Cortés,PAP,Jose Mario Berrios Serrano,4141,0
+candidate,Cortés,PAP,Eucebio  Acosta Zuniga,1627,0
+candidate,Cortés,PAP,Felix Justo Freije Pe¿a,1761,0
+candidate,Cortés,PAP,Gabriela Rosario Vasquez Aguilar,3344,0
+candidate,Cortés,PAP,Gladys Patricia Enamorado Padilla,3231,0
+candidate,Cortés,PAP,Gregoria  Ocampo Zuniga,1470,0
+candidate,Cortés,PAP,Irwing Lindssay Guardado Veroy,2482,0
+candidate,Cortés,PAP,Jesus  Enamorado Alvarado,3965,0
+candidate,Cortés,PAP,Jordi Ricardo Monta¿ola Lopez,2910,0
+candidate,Cortés,PAP,Jose Mario Berrios Serrano,4146,0
 candidate,Cortés,PAP,Juan Constantino Marinakys Zelaya,2327,0
-candidate,Cortés,PAP,Karen Dinora Ortega Osorto,2190,0
-candidate,Cortés,PAP,Manuel Antonio Amaya ,1991,0
-candidate,Cortés,PAP,Manuel De Jesus Licona Castro,1974,0
-candidate,Cortés,PAP,Martin  Sanchez Gonzalez,1284,0
-candidate,Cortés,PAP,Nanci Yadira Vasquez Garcia,1550,0
-candidate,Cortés,PINU,Bertha Lydia Coello Hernandez,3115,0
+candidate,Cortés,PAP,Karen Dinora Ortega Osorto,2191,0
+candidate,Cortés,PAP,Manuel Antonio Amaya ,1983,0
+candidate,Cortés,PAP,Manuel De Jesus Licona Castro,1965,0
+candidate,Cortés,PAP,Martin  Sanchez Gonzalez,1287,0
+candidate,Cortés,PAP,Nanci Yadira Vasquez Garcia,1551,0
+candidate,Cortés,PINU,Bertha Lydia Coello Hernandez,3116,0
 candidate,Cortés,PINU,Elizabeth  Contreras ,3415,0
-candidate,Cortés,PINU,Eugenio  Herrera Quiroz,1419,0
-candidate,Cortés,PINU,Fernando  Mateo Garrigo,3719,0
+candidate,Cortés,PINU,Eugenio  Herrera Quiroz,1417,0
+candidate,Cortés,PINU,Fernando  Mateo Garrigo,3722,0
 candidate,Cortés,PINU,Francisco Rodolfo Jimenez Caballero,3797,0
-candidate,Cortés,PINU,Gisela Maria Altamirano Sanchez,3274,0
-candidate,Cortés,PINU,Jose Dionicio Ponce Palacios,2058,0
-candidate,Cortés,PINU,Jose Toribio Aguilera Coello,12899,0
-candidate,Cortés,PINU,Julio Ismael Rapalo Zepeda,1375,0
-candidate,Cortés,PINU,Karla Patricia Herrera Ulloa,2796,0
-candidate,Cortés,PINU,Luis Fernando Ramirez ,2278,0
-candidate,Cortés,PINU,Martha Leticia Norales Arzu,4973,0
-candidate,Cortés,PINU,Maura Aracely Funez Martinez,4491,0
-candidate,Cortés,PINU,Melvin Geovany Florez Canales,2286,0
-candidate,Cortés,PINU,Osman  Maldonado Ortiz,4928,0
-candidate,Cortés,PINU,Pedro Rene Gonzalez Barahona,6464,0
-candidate,Cortés,PINU,Sergio Rolando Brocato Martinez,1343,0
-candidate,Cortés,PINU,Victorino  Carranza Ponce,2689,0
-candidate,Cortés,PINU,Xiomara  Lizeth Pavon ,3153,0
-candidate,Cortés,PINU,Zinia Yamilet Vargas Gallegos,2155,0
-candidate,Cortés,UD,Alberto  Cruz Torres,4464,0
-candidate,Cortés,UD,Alex Antonio Avila ,3650,0
-candidate,Cortés,UD,Brenda Jaqueline Moreno Bardales,5756,0
-candidate,Cortés,UD,Claudio Marcelo Villafranca Nu¿ez,6286,0
-candidate,Cortés,UD,Damary Marlessy Mejia Amaya,4985,0
-candidate,Cortés,UD,Danilo  Mejia Borjas,3950,0
-candidate,Cortés,UD,Danilo Omar Isaula Vasquez,3856,0
-candidate,Cortés,UD,Edwin Roberto Pavon Leon,20072,1
-candidate,Cortés,UD,Emilia  Leiva Ayala,3966,0
-candidate,Cortés,UD,Erika Tahina Avila Reyes,5269,0
-candidate,Cortés,UD,Esequias  Doblado Hernandez,5321,0
-candidate,Cortés,UD,Juan Francisco Gonzalez Portillo,3416,0
-candidate,Cortés,UD,Juan Ramon De Jesus Vallecillo Gutierrez,3474,0
-candidate,Cortés,UD,Maria Catalina Rivera Diaz,3364,0
-candidate,Cortés,UD,Miguel Fernando Ruiz Rapalo,5848,0
-candidate,Cortés,UD,Raul Edgardo Chinchilla Aguilar,5218,0
-candidate,Cortés,UD,Romer Xavier Chavez Linarez,4908,0
-candidate,Cortés,UD,Sonia Esperanza Bonilla Guevara,3924,0
-candidate,Cortés,UD,Susana  Castillo Velasquez,8293,0
-candidate,Cortés,UD,Yesenia Waleska Andino Lopez,4636,0
-candidate,El Paraíso,DC,Ermis Yobanis Chavarria Lopez,194,0
-candidate,El Paraíso,DC,Flerida Aida Valladares ,311,0
-candidate,El Paraíso,DC,Jose David Moncada ,1051,0
-candidate,El Paraíso,DC,Maria Jose Soliz Mercado,435,0
-candidate,El Paraíso,DC,Naudia Maricela Borden Reyes,274,0
-candidate,El Paraíso,DC,Oscar Emilio Carrasco Peralta,441,0
-candidate,El Paraíso,FAPER,Arlett Del Carmen Acu¿a Sarantes,352,0
-candidate,El Paraíso,FAPER,Claudia Yiseel Castellanos Rodriguez,162,0
+candidate,Cortés,PINU,Gisela Maria Altamirano Sanchez,3283,0
+candidate,Cortés,PINU,Jose Dionicio Ponce Palacios,2050,0
+candidate,Cortés,PINU,Jose Toribio Aguilera Coello,12946,0
+candidate,Cortés,PINU,Julio Ismael Rapalo Zepeda,1373,0
+candidate,Cortés,PINU,Karla Patricia Herrera Ulloa,2787,0
+candidate,Cortés,PINU,Luis Fernando Ramirez ,2267,0
+candidate,Cortés,PINU,Martha Leticia Norales Arzu,4963,0
+candidate,Cortés,PINU,Maura Aracely Funez Martinez,4496,0
+candidate,Cortés,PINU,Melvin Geovany Florez Canales,2284,0
+candidate,Cortés,PINU,Osman  Maldonado Ortiz,4930,0
+candidate,Cortés,PINU,Pedro Rene Gonzalez Barahona,6461,0
+candidate,Cortés,PINU,Sergio Rolando Brocato Martinez,1320,0
+candidate,Cortés,PINU,Victorino  Carranza Ponce,2690,0
+candidate,Cortés,PINU,Xiomara  Lizeth Pavon ,3157,0
+candidate,Cortés,PINU,Zinia Yamilet Vargas Gallegos,2159,0
+candidate,Cortés,UD,Alberto  Cruz Torres,4467,0
+candidate,Cortés,UD,Alex Antonio Avila ,3645,0
+candidate,Cortés,UD,Brenda Jaqueline Moreno Bardales,5753,0
+candidate,Cortés,UD,Claudio Marcelo Villafranca Nu¿ez,6287,0
+candidate,Cortés,UD,Damary Marlessy Mejia Amaya,5098,0
+candidate,Cortés,UD,Danilo  Mejia Borjas,3951,0
+candidate,Cortés,UD,Danilo Omar Isaula Vasquez,3858,0
+candidate,Cortés,UD,Edwin Roberto Pavon Leon,20058,1
+candidate,Cortés,UD,Emilia  Leiva Ayala,3974,0
+candidate,Cortés,UD,Erika Tahina Avila Reyes,5273,0
+candidate,Cortés,UD,Esequias  Doblado Hernandez,5322,0
+candidate,Cortés,UD,Juan Francisco Gonzalez Portillo,3443,0
+candidate,Cortés,UD,Juan Ramon De Jesus Vallecillo Gutierrez,3359,0
+candidate,Cortés,UD,Maria Catalina Rivera Diaz,3361,0
+candidate,Cortés,UD,Miguel Fernando Ruiz Rapalo,5862,0
+candidate,Cortés,UD,Raul Edgardo Chinchilla Aguilar,5198,0
+candidate,Cortés,UD,Romer Xavier Chavez Linarez,4909,0
+candidate,Cortés,UD,Sonia Esperanza Bonilla Guevara,3925,0
+candidate,Cortés,UD,Susana  Castillo Velasquez,8301,0
+candidate,Cortés,UD,Yesenia Waleska Andino Lopez,4624,0
+candidate,El Paraíso,DC,Ermis Yobanis Chavarria Lopez,195,0
+candidate,El Paraíso,DC,Flerida Aida Valladares ,314,0
+candidate,El Paraíso,DC,Jose David Moncada ,1052,0
+candidate,El Paraíso,DC,Maria Jose Soliz Mercado,436,0
+candidate,El Paraíso,DC,Naudia Maricela Borden Reyes,276,0
+candidate,El Paraíso,DC,Oscar Emilio Carrasco Peralta,444,0
+candidate,El Paraíso,FAPER,Arlett Del Carmen Acu¿a Sarantes,354,0
+candidate,El Paraíso,FAPER,Claudia Yiseel Castellanos Rodriguez,164,0
 candidate,El Paraíso,FAPER,Hector Nahun Martinez Sosa,237,0
-candidate,El Paraíso,FAPER,Karla Patricia Sosa Fortin,167,0
+candidate,El Paraíso,FAPER,Karla Patricia Sosa Fortin,168,0
 candidate,El Paraíso,FAPER,Luis Arturo Salgado Centeno,144,0
-candidate,El Paraíso,FAPER,Sindy Mariela Rodriguez Moncada,194,0
-candidate,El Paraíso,LIBRE,Claudia Lorena Garmendia Garay,36005,1
-candidate,El Paraíso,LIBRE,Daisy Guadalupe Rivera Ardon,32707,0
-candidate,El Paraíso,LIBRE,Francisco Javier Paz Lainez,40111,1
-candidate,El Paraíso,LIBRE,Jorge Arturo Zavala Flores,33737,0
-candidate,El Paraíso,LIBRE,Luis Alberto Posadas Alfaro,32419,0
-candidate,El Paraíso,LIBRE,Nehemias  Martinez Argueta,35964,0
-candidate,El Paraíso,Liberal,Fredy Alberto Pastrana Molina,26319,0
-candidate,El Paraíso,Liberal,King Lenard Varela Alvarez,26584,0
-candidate,El Paraíso,Liberal,Luis Alberto Sanabria Caballero,23824,0
-candidate,El Paraíso,Liberal,Mario Edgardo Segura Aroca,29495,0
-candidate,El Paraíso,Liberal,Ramon  Chacon Ferrufino,31006,1
-candidate,El Paraíso,Liberal,Rodrigo  Castillo Flores,29250,0
-candidate,El Paraíso,Nacional,Cesar Humberto Cerrato Flores,42548,0
-candidate,El Paraíso,Nacional,Hector Efrain Vallejo Cerna,42990,0
-candidate,El Paraíso,Nacional,Jose Celin Discua Elvir,53630,1
-candidate,El Paraíso,Nacional,Marisabel Del Carmen Ferrufino Flores,46812,0
-candidate,El Paraíso,Nacional,Sara Ismela Medina Galo,50940,1
-candidate,El Paraíso,Nacional,Walter Antonio Chavez Hernandez,55550,1
-candidate,El Paraíso,PAC,Carlos Omar Oliva ,3949,0
-candidate,El Paraíso,PAC,Claudia Emilia Avila Acu¿a,4177,0
-candidate,El Paraíso,PAC,Merary Gissela Gonzalez Oseguera,3812,0
-candidate,El Paraíso,PAC,Oscar Armando Alcantara Amador,4152,0
-candidate,El Paraíso,PAC,Sally Xiomara Maradiaga Mendoza,3573,0
-candidate,El Paraíso,PAC,Santos Arcelio Lagos ,4222,0
-candidate,El Paraíso,PAP,Angel Amado Diaz Garcia,319,0
-candidate,El Paraíso,PAP,Herenia  Bermudez Trejo,273,0
-candidate,El Paraíso,PAP,Juan Angel Alvarez Gomez,1181,0
-candidate,El Paraíso,PAP,Karla Ninoska Martinez Herrera,518,0
-candidate,El Paraíso,PAP,Marvin Cesar Fonseca Martinez,548,0
-candidate,El Paraíso,PAP,Wendy Yajaira Coto Zelaya,424,0
+candidate,El Paraíso,FAPER,Sindy Mariela Rodriguez Moncada,195,0
+candidate,El Paraíso,LIBRE,Claudia Lorena Garmendia Garay,36288,1
+candidate,El Paraíso,LIBRE,Daisy Guadalupe Rivera Ardon,32873,0
+candidate,El Paraíso,LIBRE,Francisco Javier Paz Lainez,40301,1
+candidate,El Paraíso,LIBRE,Jorge Arturo Zavala Flores,34005,0
+candidate,El Paraíso,LIBRE,Luis Alberto Posadas Alfaro,32746,0
+candidate,El Paraíso,LIBRE,Nehemias  Martinez Argueta,36285,0
+candidate,El Paraíso,Liberal,Fredy Alberto Pastrana Molina,26503,0
+candidate,El Paraíso,Liberal,King Lenard Varela Alvarez,26716,0
+candidate,El Paraíso,Liberal,Luis Alberto Sanabria Caballero,23939,0
+candidate,El Paraíso,Liberal,Mario Edgardo Segura Aroca,29668,0
+candidate,El Paraíso,Liberal,Ramon  Chacon Ferrufino,31135,1
+candidate,El Paraíso,Liberal,Rodrigo  Castillo Flores,29341,0
+candidate,El Paraíso,Nacional,Cesar Humberto Cerrato Flores,42793,0
+candidate,El Paraíso,Nacional,Hector Efrain Vallejo Cerna,43222,0
+candidate,El Paraíso,Nacional,Jose Celin Discua Elvir,53905,1
+candidate,El Paraíso,Nacional,Marisabel Del Carmen Ferrufino Flores,47116,0
+candidate,El Paraíso,Nacional,Sara Ismela Medina Galo,51206,1
+candidate,El Paraíso,Nacional,Walter Antonio Chavez Hernandez,56191,1
+candidate,El Paraíso,PAC,Carlos Omar Oliva ,3964,0
+candidate,El Paraíso,PAC,Claudia Emilia Avila Acu¿a,4199,0
+candidate,El Paraíso,PAC,Merary Gissela Gonzalez Oseguera,3828,0
+candidate,El Paraíso,PAC,Oscar Armando Alcantara Amador,4164,0
+candidate,El Paraíso,PAC,Sally Xiomara Maradiaga Mendoza,3559,0
+candidate,El Paraíso,PAC,Santos Arcelio Lagos ,4239,0
+candidate,El Paraíso,PAP,Angel Amado Diaz Garcia,320,0
+candidate,El Paraíso,PAP,Herenia  Bermudez Trejo,274,0
+candidate,El Paraíso,PAP,Juan Angel Alvarez Gomez,1125,0
+candidate,El Paraíso,PAP,Karla Ninoska Martinez Herrera,520,0
+candidate,El Paraíso,PAP,Marvin Cesar Fonseca Martinez,549,0
+candidate,El Paraíso,PAP,Wendy Yajaira Coto Zelaya,426,0
 candidate,El Paraíso,PINU,Edy Alexis Murillo ,329,0
-candidate,El Paraíso,PINU,Ena Karolina Pozo Ardon,525,0
-candidate,El Paraíso,PINU,Jose Leon Aguilar ,1441,0
+candidate,El Paraíso,PINU,Ena Karolina Pozo Ardon,524,0
+candidate,El Paraíso,PINU,Jose Leon Aguilar ,1443,0
 candidate,El Paraíso,PINU,Marlen Gricelda Fernandez Mendez,1236,0
-candidate,El Paraíso,PINU,Olga Alicia Gamero Parria,560,0
-candidate,El Paraíso,PINU,Oscar Emilio Menjivar Rubi,1231,0
-candidate,El Paraíso,UD,Adolfo Enrique Garcia ,651,0
+candidate,El Paraíso,PINU,Olga Alicia Gamero Parria,566,0
+candidate,El Paraíso,PINU,Oscar Emilio Menjivar Rubi,1232,0
+candidate,El Paraíso,UD,Adolfo Enrique Garcia ,646,0
 candidate,El Paraíso,UD,Consuelo Amparo Villalta Dominguez,367,0
-candidate,El Paraíso,UD,Esmilda Marily Baquedano Rivas,276,0
-candidate,El Paraíso,UD,Jacobo Adolfo Flores ,1714,0
-candidate,El Paraíso,UD,Jose Hernan Figueroa Rodriguez,434,0
-candidate,El Paraíso,UD,Lidesky Milenia Arge?al Martinez,547,0
+candidate,El Paraíso,UD,Esmilda Marily Baquedano Rivas,277,0
+candidate,El Paraíso,UD,Jacobo Adolfo Flores ,1717,0
+candidate,El Paraíso,UD,Jose Hernan Figueroa Rodriguez,435,0
+candidate,El Paraíso,UD,Lidesky Milenia Arge?al Martinez,554,0
 candidate,Francisco Morazán,DC,Antonio  Amador Barrientos,2442,0
 candidate,Francisco Morazán,DC,Augusto Domingo Cruz Asensio,44161,1
 candidate,Francisco Morazán,DC,David Arturo Aguilera Vallejo,8401,0
@@ -744,9 +744,9 @@ candidate,Francisco Morazán,UD,Rafael Leonidas Diaz Alcerro,16636,0
 candidate,Francisco Morazán,UD,Yeny Fernanda Castillo Escalante,3779,0
 candidate,Francisco Morazán,UD,Yohana Rebeca Fu Pe¿a,6470,0
 candidate,Gracias a Dios,DC,Ezequiel  Cruz Carrillo,57,0
-candidate,Gracias a Dios,LIBRE,Edmundo  Flores Zuniga,4610,0
-candidate,Gracias a Dios,Liberal,Seth  Paisano Wood,5231,1
-candidate,Gracias a Dios,Nacional,Alberto Samuel Haylock Echeverria,4478,0
+candidate,Gracias a Dios,LIBRE,Edmundo  Flores Zuniga,4663,0
+candidate,Gracias a Dios,Liberal,Seth  Paisano Wood,5031,1
+candidate,Gracias a Dios,Nacional,Alberto Samuel Haylock Echeverria,4488,0
 candidate,Gracias a Dios,PAC,Emilia  Miranda Martinez,64,0
 candidate,Gracias a Dios,PAP,Kenedy  Santos Godfry,86,0
 candidate,Gracias a Dios,PINU,Marlen  Manister Pamistan,74,0
@@ -777,43 +777,43 @@ candidate,Intibucá,UD-FAPER,Juan  Mejia ,83,0
 candidate,Intibucá,UD-FAPER,Olvin Reyniery Gonzales Dominguez,215,0
 candidate,Islas de la Bahía,DC,Jose Uriel Rosales Miranda,64,0
 candidate,Islas de la Bahía,FAPER,Oscar  Perez Guillen,316,0
-candidate,Islas de la Bahía,LIBRE,Gustavo Adolfo Arriola Arias,1180,0
+candidate,Islas de la Bahía,LIBRE,Gustavo Adolfo Arriola Arias,1190,0
 candidate,Islas de la Bahía,Liberal,Jerry Dave Hynds Julio,6778,1
-candidate,Islas de la Bahía,Nacional,George Romeo Silvestri Ferez,4565,0
+candidate,Islas de la Bahía,Nacional,George Romeo Silvestri Ferez,4609,0
 candidate,Islas de la Bahía,PAC,Oscar Augusto Lobo Discua,210,0
 candidate,Islas de la Bahía,PAP,Jorge Alexander Antunez Erazo,420,0
 candidate,Islas de la Bahía,PINU,Juan Carlos Gabarrete Velasquez,183,0
 candidate,Islas de la Bahía,UD,Henry Alexander Zelaya Santos,387,0
 candidate,La Paz,DC,Julio Cesar Orellana Vallecillo,627,0
-candidate,La Paz,DC,Luis Alonso Palomo Martinez,570,0
+candidate,La Paz,DC,Luis Alonso Palomo Martinez,579,0
 candidate,La Paz,DC,Saira Joselina Isaula Manueles,1533,0
 candidate,La Paz,FAPER,Glenis Laritza Lopez Velasquez,180,0
 candidate,La Paz,FAPER,Oscar Rolando Melghem Due¿as,132,0
-candidate,La Paz,FAPER,Roger Emilio Medina Ramos,212,0
-candidate,La Paz,LIBRE,Abel  Benitez ,11644,1
+candidate,La Paz,FAPER,Roger Emilio Medina Ramos,210,0
+candidate,La Paz,LIBRE,Abel  Benitez ,11637,1
 candidate,La Paz,LIBRE,Miriam Elizabeth Perez Zelaya,9797,0
-candidate,La Paz,LIBRE,Santos Victorino Rodriguez Yanes,11360,0
+candidate,La Paz,LIBRE,Santos Victorino Rodriguez Yanes,11363,0
 candidate,La Paz,Liberal,Manuel De Jesus Velasquez Flores,9375,0
-candidate,La Paz,Liberal,Manuel Ivan Fiallos Rodas,10331,1
-candidate,La Paz,Liberal,Maria Del Carmen Urquia Martinez,7717,0
-candidate,La Paz,Nacional,Gladis Aurora Lopez Calderon,27124,1
-candidate,La Paz,Nacional,Policarpo  Bonilla Pinel,17649,0
-candidate,La Paz,Nacional,Raul Edgardo Bulnes Barahona,20013,0
-candidate,La Paz,PAC,Fernanda  Lopez Perez,522,0
-candidate,La Paz,PAC,Jose Ramon Morales Burdett,623,0
-candidate,La Paz,PAC,Maria Enecon Perdomo Gomez,722,0
+candidate,La Paz,Liberal,Manuel Ivan Fiallos Rodas,10328,1
+candidate,La Paz,Liberal,Maria Del Carmen Urquia Martinez,7747,0
+candidate,La Paz,Nacional,Gladis Aurora Lopez Calderon,27182,1
+candidate,La Paz,Nacional,Policarpo  Bonilla Pinel,17661,0
+candidate,La Paz,Nacional,Raul Edgardo Bulnes Barahona,20019,0
+candidate,La Paz,PAC,Fernanda  Lopez Perez,526,0
+candidate,La Paz,PAC,Jose Ramon Morales Burdett,621,0
+candidate,La Paz,PAC,Maria Enecon Perdomo Gomez,716,0
 candidate,La Paz,PAP,Hector Adan Almendarez Vasquez,106,0
-candidate,La Paz,PAP,Marylu  Troncony Castillo,268,0
+candidate,La Paz,PAP,Marylu  Troncony Castillo,274,0
 candidate,La Paz,PAP,Oscar Edgardo Rodriguez Gomez,251,0
 candidate,La Paz,PINU,Candida  Perez ,115,0
-candidate,La Paz,PINU,Francisco  Vasquez ,440,0
+candidate,La Paz,PINU,Francisco  Vasquez ,441,0
 candidate,La Paz,PINU,Sandra Lorena Argueta Ventura,222,0
 candidate,La Paz,UD,Alejandro Jose Mendez Castillo,3934,0
 candidate,La Paz,UD,Martza Elizabeth Arriaga ,1447,0
 candidate,La Paz,UD,Nelson  Mendez Isaula,1250,0
 candidate,Lempira,DC,Jose Alexander Mateo Lopez,62,0
 candidate,Lempira,DC,Jose David Carrasco ,117,0
-candidate,Lempira,DC,Maria Lucinda Reyes Portillo,122,0
+candidate,Lempira,DC,Maria Lucinda Reyes Portillo,121,0
 candidate,Lempira,DC,Moises Urias Melgar Guardado,84,0
 candidate,Lempira,DC,Nely Ondina Martinez ,266,0
 candidate,Lempira,FAPER,Abel De Jesus Iraheta Cantarero,72,0
@@ -821,23 +821,23 @@ candidate,Lempira,FAPER,Cesar Dario Meza Padilla,101,0
 candidate,Lempira,FAPER,Delmi Yaneth Castellanos Lorenzo,146,0
 candidate,Lempira,FAPER,Noe Alejandro Perdomo Paz,71,0
 candidate,Lempira,FAPER,Pastora  Villanueva Orellana,75,0
-candidate,Lempira,LIBRE,Licida Leonor Borjas Hercules,27543,0
-candidate,Lempira,LIBRE,Lily  Aguilar Madrid,28814,1
-candidate,Lempira,LIBRE,Ryna Marisol Vasquez Sanchez,28453,0
+candidate,Lempira,LIBRE,Licida Leonor Borjas Hercules,27523,0
+candidate,Lempira,LIBRE,Lily  Aguilar Madrid,28819,1
+candidate,Lempira,LIBRE,Ryna Marisol Vasquez Sanchez,28567,0
 candidate,Lempira,LIBRE,Victor Manuel Cruz Sanchez,27114,0
-candidate,Lempira,LIBRE,Yester Omar Mu¿oz ,32012,1
-candidate,Lempira,Liberal,Edgar Kinett Zacapa Lopez,9485,0
+candidate,Lempira,LIBRE,Yester Omar Mu¿oz ,32021,1
+candidate,Lempira,Liberal,Edgar Kinett Zacapa Lopez,9515,0
 candidate,Lempira,Liberal,Erick Mauricio Rodriguez Gavarrete,13092,0
-candidate,Lempira,Liberal,Leodegario  Mateo Garcia,6412,0
-candidate,Lempira,Liberal,Nery Orlando Reyes Hernandez,14403,0
+candidate,Lempira,Liberal,Leodegario  Mateo Garcia,6406,0
+candidate,Lempira,Liberal,Nery Orlando Reyes Hernandez,14402,0
 candidate,Lempira,Liberal,Yolanda Pamela Borjas Aplicano,5718,0
-candidate,Lempira,Nacional,Edna Yolani Batres Cruz,50494,0
-candidate,Lempira,Nacional,Juan Carlos Valenzuela Molina,52938,1
-candidate,Lempira,Nacional,Salvador  Valeriano Pineda,53189,1
-candidate,Lempira,Nacional,Samuel Armando Reyes Rendon,55708,1
-candidate,Lempira,Nacional,Yesenia Soledad Gomez Alvarenga,48077,0
-candidate,Lempira,PAC,Betulia  Ruiz Mejia,415,0
-candidate,Lempira,PAC,Doreen Esther Flores Orellana,323,0
+candidate,Lempira,Nacional,Edna Yolani Batres Cruz,50637,0
+candidate,Lempira,Nacional,Juan Carlos Valenzuela Molina,53038,1
+candidate,Lempira,Nacional,Salvador  Valeriano Pineda,53186,1
+candidate,Lempira,Nacional,Samuel Armando Reyes Rendon,55971,1
+candidate,Lempira,Nacional,Yesenia Soledad Gomez Alvarenga,48079,0
+candidate,Lempira,PAC,Betulia  Ruiz Mejia,367,0
+candidate,Lempira,PAC,Doreen Esther Flores Orellana,321,0
 candidate,Lempira,PAC,Edvin Nery Cruz Mejia,259,0
 candidate,Lempira,PAC,Jesus Hernan Cruz Perez,567,0
 candidate,Lempira,PAC,Olga Floribel Aragon Posadas,373,0
@@ -846,28 +846,28 @@ candidate,Lempira,PAP,Gilma Patricia Rivas Mejia,48,0
 candidate,Lempira,PAP,Juan Jose Reyes ,45,0
 candidate,Lempira,PAP,Marcos Leopoldo Hernandez Suazo,90,0
 candidate,Lempira,PAP,Sulema Josefina Escalante Gomez,32,0
-candidate,Lempira,PINU,Candido  Dubon Ramirez,76,0
+candidate,Lempira,PINU,Candido  Dubon Ramirez,70,0
 candidate,Lempira,PINU,Hector Armando Martinez Reyes,163,0
 candidate,Lempira,PINU,Karen Yameli Garcia Murillo,189,0
 candidate,Lempira,PINU,Loorbin Oralia Hernandez Aguilar,100,0
 candidate,Lempira,PINU,Maria Santos Licona ,82,0
 candidate,Lempira,UD,Aracely  Portillo Castillo,45,0
 candidate,Lempira,UD,Blanca Rosa Guardado Lopez,48,0
-candidate,Lempira,UD,Marino  Nataren Melendez,55,0
-candidate,Lempira,UD,Teodoro  Diaz Bautista,78,0
+candidate,Lempira,UD,Marino  Nataren Melendez,53,0
+candidate,Lempira,UD,Teodoro  Diaz Bautista,79,0
 candidate,Lempira,UD,Zonia Maibeli Diaz Landaverde,79,0
 candidate,Ocotepeque,DC,Fany Marisol Valle Valle,198,0
 candidate,Ocotepeque,DC,Jose Alexis Miranda Hernandez,192,0
 candidate,Ocotepeque,FAPER,Martha Lidia Hercules Arana,101,0
 candidate,Ocotepeque,FAPER,Victor Manuel Chinchilla Valle,90,0
-candidate,Ocotepeque,LIBRE,Maria Del Transito Lara ,7238,0
-candidate,Ocotepeque,LIBRE,Oscar Orlando Caceres Ruiz,11336,0
-candidate,Ocotepeque,Liberal,Hugo Ricardo Hernandez ,12982,1
+candidate,Ocotepeque,LIBRE,Maria Del Transito Lara ,7278,0
+candidate,Ocotepeque,LIBRE,Oscar Orlando Caceres Ruiz,11474,0
+candidate,Ocotepeque,Liberal,Hugo Ricardo Hernandez ,12991,1
 candidate,Ocotepeque,Liberal,Sandra Amparo Arita Lopez,5981,0
-candidate,Ocotepeque,Nacional,Roman  Villeda Aguilar,23193,1
-candidate,Ocotepeque,Nacional,Valencita Odalis Leveron Rosa,5345,0
+candidate,Ocotepeque,Nacional,Roman  Villeda Aguilar,23353,1
+candidate,Ocotepeque,Nacional,Valencita Odalis Leveron Rosa,5355,0
 candidate,Ocotepeque,PAC,Julio Alberto Tinoco Espinoza,995,0
-candidate,Ocotepeque,PAC,Nancy Marilu Lemuz Zolorsano,636,0
+candidate,Ocotepeque,PAC,Nancy Marilu Lemuz Zolorsano,633,0
 candidate,Ocotepeque,PAP,Elva Guadalupe Pineda Fuentes,38,0
 candidate,Ocotepeque,PAP,Rafael Antonio Peraza Guerra,87,0
 candidate,Ocotepeque,PINU,Iris Marisol Lopez Gonzalez,134,0
@@ -875,124 +875,124 @@ candidate,Ocotepeque,PINU,Luis Alfonzo Jimenez Escobar,93,0
 candidate,Ocotepeque,UD,Paim  Gonzalez Perez,37,0
 candidate,Ocotepeque,UD,Secia Keren Santos Rivera,41,0
 candidate,Olancho,DC,Bernardo Abrahan Cubas ,605,0
-candidate,Olancho,DC,Erlin Antonio Hernandes Caceres,1994,0
-candidate,Olancho,DC,Flavio Javier Najera Zelaya,4003,0
+candidate,Olancho,DC,Erlin Antonio Hernandes Caceres,1999,0
+candidate,Olancho,DC,Flavio Javier Najera Zelaya,4000,0
 candidate,Olancho,DC,Fredy Alberto Ordo¿ez Romero,638,0
-candidate,Olancho,DC,Lorenza Del Carmen Aguilar Galeano,1509,0
-candidate,Olancho,DC,Mirna Areli Padilla Mencia,2049,0
-candidate,Olancho,DC,Nora Betina Rodriguez Caceres,1277,0
-candidate,Olancho,FAPER,Eda Argentina Bonilla Barralaga,343,0
+candidate,Olancho,DC,Lorenza Del Carmen Aguilar Galeano,1530,0
+candidate,Olancho,DC,Mirna Areli Padilla Mencia,2050,0
+candidate,Olancho,DC,Nora Betina Rodriguez Caceres,1272,0
+candidate,Olancho,FAPER,Eda Argentina Bonilla Barralaga,344,0
 candidate,Olancho,FAPER,Hector Luis Rubio Artica,226,0
-candidate,Olancho,FAPER,Ledis Fabiola Ortiz Funez,636,0
+candidate,Olancho,FAPER,Ledis Fabiola Ortiz Funez,637,0
 candidate,Olancho,FAPER,Luis Fernando Hernandez Mateo,397,0
-candidate,Olancho,FAPER,Manuel Alexis Rodriguez Banegas,411,0
-candidate,Olancho,FAPER,Milton Augusto Hernandez Andrade,397,0
-candidate,Olancho,FAPER,Yonary Lizeth Yanez Cardenas,742,0
-candidate,Olancho,LIBRE,Jose Manuel Zelaya Rosales,64437,1
-candidate,Olancho,LIBRE,Jose Ramon Caballero Fajardo,42552,0
-candidate,Olancho,LIBRE,Jose Salvador Arnodo Mercado,40286,0
-candidate,Olancho,LIBRE,Mario Alexander Ayala Turcios,45617,1
-candidate,Olancho,LIBRE,Mario Arturo Padilla Mendoza,41479,0
-candidate,Olancho,LIBRE,Miguel Angel Navarro Cruz,52511,1
-candidate,Olancho,LIBRE,Yadira Floribeth Alvarez Licona,43779,0
-candidate,Olancho,Liberal,Elman Joel Sandoval Sabonge,18496,0
-candidate,Olancho,Liberal,Fredy Renan Najera Montoya,22888,1
-candidate,Olancho,Liberal,Justo Rene Martinez Miralda,11061,0
-candidate,Olancho,Liberal,Luis Beltran Irias Lainez,9175,0
-candidate,Olancho,Liberal,Milton Mateo Montalvan Mejia,15414,0
-candidate,Olancho,Liberal,Oscar Rolando Flores Pinot,10603,0
-candidate,Olancho,Liberal,Sifred Eugenio Brown Mendez,13147,0
-candidate,Olancho,Nacional,Dennis Lizandro Mejia Zelaya,50372,0
-candidate,Olancho,Nacional,Gilliam  Guifarro Montes De Oca,46420,0
-candidate,Olancho,Nacional,Jose Francisco Rivera Hernandez,58500,1
-candidate,Olancho,Nacional,Maria Dolores Garcia Guifarro,55548,0
-candidate,Olancho,Nacional,Reinaldo Antonio Sanchez Rivera,62677,1
-candidate,Olancho,Nacional,Santos Ernesto Calix Molina,53114,0
-candidate,Olancho,Nacional,Teresa Concepcion Calix Raudales,58902,1
-candidate,Olancho,PAC,Blanca Rosa Del Socorro Rivera Ferrera,2006,0
-candidate,Olancho,PAC,Diana Maribel Hernandez Blandin,2101,0
-candidate,Olancho,PAC,Enma Mariela Rojas Pacheco,1912,0
-candidate,Olancho,PAC,Jorge Leonardo Casco Mendoza,2385,0
-candidate,Olancho,PAC,Norma Sagrario Rivera Ferrera,2206,0
-candidate,Olancho,PAC,Oscar Samuel Aleman Gutierrez,3397,0
-candidate,Olancho,PAC,Osman Roney Banegas Ruiz,1931,0
+candidate,Olancho,FAPER,Manuel Alexis Rodriguez Banegas,410,0
+candidate,Olancho,FAPER,Milton Augusto Hernandez Andrade,401,0
+candidate,Olancho,FAPER,Yonary Lizeth Yanez Cardenas,738,0
+candidate,Olancho,LIBRE,Jose Manuel Zelaya Rosales,64538,1
+candidate,Olancho,LIBRE,Jose Ramon Caballero Fajardo,42679,0
+candidate,Olancho,LIBRE,Jose Salvador Arnodo Mercado,40489,0
+candidate,Olancho,LIBRE,Mario Alexander Ayala Turcios,45636,1
+candidate,Olancho,LIBRE,Mario Arturo Padilla Mendoza,41492,0
+candidate,Olancho,LIBRE,Miguel Angel Navarro Cruz,52839,1
+candidate,Olancho,LIBRE,Yadira Floribeth Alvarez Licona,44008,0
+candidate,Olancho,Liberal,Elman Joel Sandoval Sabonge,18586,0
+candidate,Olancho,Liberal,Fredy Renan Najera Montoya,22943,1
+candidate,Olancho,Liberal,Justo Rene Martinez Miralda,11155,0
+candidate,Olancho,Liberal,Luis Beltran Irias Lainez,9183,0
+candidate,Olancho,Liberal,Milton Mateo Montalvan Mejia,15505,0
+candidate,Olancho,Liberal,Oscar Rolando Flores Pinot,10622,0
+candidate,Olancho,Liberal,Sifred Eugenio Brown Mendez,13198,0
+candidate,Olancho,Nacional,Dennis Lizandro Mejia Zelaya,50427,0
+candidate,Olancho,Nacional,Gilliam  Guifarro Montes De Oca,46537,0
+candidate,Olancho,Nacional,Jose Francisco Rivera Hernandez,58522,1
+candidate,Olancho,Nacional,Maria Dolores Garcia Guifarro,55802,0
+candidate,Olancho,Nacional,Reinaldo Antonio Sanchez Rivera,62743,1
+candidate,Olancho,Nacional,Santos Ernesto Calix Molina,53636,0
+candidate,Olancho,Nacional,Teresa Concepcion Calix Raudales,59411,1
+candidate,Olancho,PAC,Blanca Rosa Del Socorro Rivera Ferrera,2023,0
+candidate,Olancho,PAC,Diana Maribel Hernandez Blandin,2130,0
+candidate,Olancho,PAC,Enma Mariela Rojas Pacheco,1913,0
+candidate,Olancho,PAC,Jorge Leonardo Casco Mendoza,2380,0
+candidate,Olancho,PAC,Norma Sagrario Rivera Ferrera,2219,0
+candidate,Olancho,PAC,Oscar Samuel Aleman Gutierrez,3423,0
+candidate,Olancho,PAC,Osman Roney Banegas Ruiz,1899,0
 candidate,Olancho,PAP,Alex David Sandoval Sabonge,907,0
-candidate,Olancho,PAP,Hector Oqueli Sarmiento Padilla,2419,0
+candidate,Olancho,PAP,Hector Oqueli Sarmiento Padilla,2378,0
 candidate,Olancho,PAP,Leticia Carolina Madrid Hernandez,364,0
 candidate,Olancho,PAP,Lindolfo Rafael Godoy Cabrera,1018,0
 candidate,Olancho,PAP,Tania Iveth Romero Lobo,437,0
-candidate,Olancho,PAP,Tulio Favian Zelaya Lobo,1222,0
+candidate,Olancho,PAP,Tulio Favian Zelaya Lobo,1223,0
 candidate,Olancho,PAP,Yesy Marisela Pagoada Villafranc,347,0
-candidate,Olancho,PINU,Andres Eduardo Hernandez ,1049,0
-candidate,Olancho,PINU,Dennis Enrrique Rosales Murillo,392,0
-candidate,Olancho,PINU,Maria Isabel Garcia Lopez,472,0
-candidate,Olancho,PINU,Omar Isaias Pacheco Tejeda,2081,0
-candidate,Olancho,PINU,Oscar Bilmer Salazar Rivera,1154,0
-candidate,Olancho,PINU,Sindi Carolina Valdez Matute,261,0
-candidate,Olancho,PINU,Yolani Albertina Talavera Cruz,410,0
-candidate,Olancho,UD,Amalia Yaneth Inestroza Guifarro,1521,0
-candidate,Olancho,UD,Juan Alberto Rodriguez Mercadal,2159,0
-candidate,Olancho,UD,Karla Maribel Aleman Mejia,1430,0
-candidate,Olancho,UD,Liliana Concepcion Medina Ayala,2654,0
-candidate,Olancho,UD,Marcos Ramiro Lobo Rosales,7191,0
+candidate,Olancho,PINU,Andres Eduardo Hernandez ,1109,0
+candidate,Olancho,PINU,Dennis Enrrique Rosales Murillo,466,0
+candidate,Olancho,PINU,Maria Isabel Garcia Lopez,506,0
+candidate,Olancho,PINU,Omar Isaias Pacheco Tejeda,2208,0
+candidate,Olancho,PINU,Oscar Bilmer Salazar Rivera,1185,0
+candidate,Olancho,PINU,Sindi Carolina Valdez Matute,288,0
+candidate,Olancho,PINU,Yolani Albertina Talavera Cruz,480,0
+candidate,Olancho,UD,Amalia Yaneth Inestroza Guifarro,1523,0
+candidate,Olancho,UD,Juan Alberto Rodriguez Mercadal,2156,0
+candidate,Olancho,UD,Karla Maribel Aleman Mejia,1431,0
+candidate,Olancho,UD,Liliana Concepcion Medina Ayala,2660,0
+candidate,Olancho,UD,Marcos Ramiro Lobo Rosales,7081,0
 candidate,Olancho,UD,Rossel Lorenzo Argueta Tejeda,2546,0
-candidate,Olancho,UD,Walter Manrrique Juarez Hernandez,1937,0
-candidate,Santa Bárbara,DC,Argentina  Garcia ,1798,0
-candidate,Santa Bárbara,DC,Edin Armando Rodriguez Pineda,1753,0
+candidate,Olancho,UD,Walter Manrrique Juarez Hernandez,1947,0
+candidate,Santa Bárbara,DC,Argentina  Garcia ,1792,0
+candidate,Santa Bárbara,DC,Edin Armando Rodriguez Pineda,1747,0
 candidate,Santa Bárbara,DC,Indira Isabel Delattibodier Amaya,929,0
 candidate,Santa Bárbara,DC,Juventina  Rodriguez ,617,0
 candidate,Santa Bárbara,DC,Marlyn Gicela Lopez Dubon,828,0
 candidate,Santa Bárbara,DC,Rafael  Paz Deras,1998,0
-candidate,Santa Bárbara,DC,Raul Alberto Hernandez Rivera,4611,0
-candidate,Santa Bárbara,DC,Valentin  Benitez Banegas,756,0
+candidate,Santa Bárbara,DC,Raul Alberto Hernandez Rivera,4613,0
+candidate,Santa Bárbara,DC,Valentin  Benitez Banegas,736,0
 candidate,Santa Bárbara,DC,Yanida Navidad Reyes Toro,518,0
 candidate,Santa Bárbara,FAPER,Adalicia  Cardona Ponce,540,0
 candidate,Santa Bárbara,FAPER,Angel Maria Herrera Sanchez,261,0
-candidate,Santa Bárbara,FAPER,Digna  Benitez Benitez,348,0
-candidate,Santa Bárbara,FAPER,Ely Sonia Pineda Guardado,415,0
+candidate,Santa Bárbara,FAPER,Digna  Benitez Benitez,345,0
+candidate,Santa Bárbara,FAPER,Ely Sonia Pineda Guardado,412,0
 candidate,Santa Bárbara,FAPER,Jerson Adalid Mejia Trochez,344,0
 candidate,Santa Bárbara,FAPER,Jesus Baltazar Martinez Trochez,409,0
 candidate,Santa Bárbara,FAPER,Jose Ramon Vasquez Diaz,390,0
-candidate,Santa Bárbara,FAPER,Maria  Enamorado ,382,0
+candidate,Santa Bárbara,FAPER,Maria  Enamorado ,374,0
 candidate,Santa Bárbara,FAPER,Medardo Isac Orellana Orellana,283,0
-candidate,Santa Bárbara,LIBRE,Alejandra Maria Mancia Gomez,50155,1
-candidate,Santa Bárbara,LIBRE,Carlos Alberto Interiano ,48884,1
-candidate,Santa Bárbara,LIBRE,Dennys Antonio Sanchez Fernandez,49047,1
+candidate,Santa Bárbara,LIBRE,Alejandra Maria Mancia Gomez,50261,1
+candidate,Santa Bárbara,LIBRE,Carlos Alberto Interiano ,49134,1
+candidate,Santa Bárbara,LIBRE,Dennys Antonio Sanchez Fernandez,49059,1
 candidate,Santa Bárbara,LIBRE,Edgardo Antonio Casa¿a Mejia,50770,1
-candidate,Santa Bárbara,LIBRE,Jorge Enoc Flores ,48670,0
-candidate,Santa Bárbara,LIBRE,Jose Ramon Amaya Caballero,47823,0
-candidate,Santa Bárbara,LIBRE,Medardo  Rosa Pineda,39767,0
-candidate,Santa Bárbara,LIBRE,Oscar Elvir Mendoza Rodriguez,47466,0
-candidate,Santa Bárbara,LIBRE,Ramon Enrique Romero Garcia,45938,0
-candidate,Santa Bárbara,Liberal,Jesus Dagoberto Perdomo Chavez,14052,0
-candidate,Santa Bárbara,Liberal,Juan Carlos Enamorado Alcantara,9988,0
-candidate,Santa Bárbara,Liberal,Luis Edgardo Murillo Pineda,6357,0
+candidate,Santa Bárbara,LIBRE,Jorge Enoc Flores ,48685,0
+candidate,Santa Bárbara,LIBRE,Jose Ramon Amaya Caballero,48003,0
+candidate,Santa Bárbara,LIBRE,Medardo  Rosa Pineda,39859,0
+candidate,Santa Bárbara,LIBRE,Oscar Elvir Mendoza Rodriguez,47476,0
+candidate,Santa Bárbara,LIBRE,Ramon Enrique Romero Garcia,46353,0
+candidate,Santa Bárbara,Liberal,Jesus Dagoberto Perdomo Chavez,14066,0
+candidate,Santa Bárbara,Liberal,Juan Carlos Enamorado Alcantara,9993,0
+candidate,Santa Bárbara,Liberal,Luis Edgardo Murillo Pineda,6351,0
 candidate,Santa Bárbara,Liberal,Marco Tulio Mu¿oz Lopez,7371,0
-candidate,Santa Bárbara,Liberal,Mirna Angelica Cardona Rivera,7307,0
-candidate,Santa Bárbara,Liberal,Rina Cecilia Barahona Jerezano,5752,0
-candidate,Santa Bárbara,Liberal,Rommel  Caballero Mejia,6301,0
-candidate,Santa Bárbara,Liberal,Sonia Argentina Fajardo Regalado,6605,0
-candidate,Santa Bárbara,Liberal,Victor Rolando Sabillon Sabillon,17445,1
-candidate,Santa Bárbara,Nacional,Carmen Alicia Funez Leiva,45415,0
-candidate,Santa Bárbara,Nacional,Cesar Enrique Handal Fernandez,50207,1
-candidate,Santa Bárbara,Nacional,Claudio Roberto Perdomo Interiano,46563,0
-candidate,Santa Bárbara,Nacional,Dixie Roberto Mejia Ayala,43769,0
-candidate,Santa Bárbara,Nacional,Mario Alonso Perez Lopez,52338,1
-candidate,Santa Bárbara,Nacional,Martha Concepcion Figueroa Torrez,51623,1
-candidate,Santa Bárbara,Nacional,Nely  Pineda Ayala,44392,0
-candidate,Santa Bárbara,Nacional,Rolando  Dubon Bueso,53492,1
-candidate,Santa Bárbara,Nacional,Selma Yadira Silva Rodriguez,46811,0
+candidate,Santa Bárbara,Liberal,Mirna Angelica Cardona Rivera,7305,0
+candidate,Santa Bárbara,Liberal,Rina Cecilia Barahona Jerezano,5749,0
+candidate,Santa Bárbara,Liberal,Rommel  Caballero Mejia,6309,0
+candidate,Santa Bárbara,Liberal,Sonia Argentina Fajardo Regalado,6583,0
+candidate,Santa Bárbara,Liberal,Victor Rolando Sabillon Sabillon,17443,1
+candidate,Santa Bárbara,Nacional,Carmen Alicia Funez Leiva,45449,0
+candidate,Santa Bárbara,Nacional,Cesar Enrique Handal Fernandez,50421,1
+candidate,Santa Bárbara,Nacional,Claudio Roberto Perdomo Interiano,46608,0
+candidate,Santa Bárbara,Nacional,Dixie Roberto Mejia Ayala,43729,0
+candidate,Santa Bárbara,Nacional,Mario Alonso Perez Lopez,52271,1
+candidate,Santa Bárbara,Nacional,Martha Concepcion Figueroa Torrez,51423,1
+candidate,Santa Bárbara,Nacional,Nely  Pineda Ayala,44292,0
+candidate,Santa Bárbara,Nacional,Rolando  Dubon Bueso,53540,1
+candidate,Santa Bárbara,Nacional,Selma Yadira Silva Rodriguez,46933,0
 candidate,Santa Bárbara,PAC,Alma Azucena Teruel Medina,4187,0
-candidate,Santa Bárbara,PAC,Florentina  Reyes Herrera,3490,0
-candidate,Santa Bárbara,PAC,Gloria Yasmin Meza Erazo,5739,0
-candidate,Santa Bárbara,PAC,Jose Adalid Rivera Perez,5068,0
-candidate,Santa Bárbara,PAC,Jose Maria Perdomo Ulloa,4789,0
-candidate,Santa Bárbara,PAC,Kenia Maricela Lopez Gonzales,4541,0
-candidate,Santa Bárbara,PAC,Leonel  Ayala Flores,5605,0
-candidate,Santa Bárbara,PAC,Merlin Nohe Escobar Hernandez,6066,0
-candidate,Santa Bárbara,PAC,Teodocio  Paz ,5146,0
+candidate,Santa Bárbara,PAC,Florentina  Reyes Herrera,3489,0
+candidate,Santa Bárbara,PAC,Gloria Yasmin Meza Erazo,5750,0
+candidate,Santa Bárbara,PAC,Jose Adalid Rivera Perez,5116,0
+candidate,Santa Bárbara,PAC,Jose Maria Perdomo Ulloa,4816,0
+candidate,Santa Bárbara,PAC,Kenia Maricela Lopez Gonzales,4547,0
+candidate,Santa Bárbara,PAC,Leonel  Ayala Flores,5612,0
+candidate,Santa Bárbara,PAC,Merlin Nohe Escobar Hernandez,6062,0
+candidate,Santa Bárbara,PAC,Teodocio  Paz ,5148,0
 candidate,Santa Bárbara,PAP,Carlos Jose Banegas ,238,0
-candidate,Santa Bárbara,PAP,Celenia Maria Borjas Martinez,200,0
+candidate,Santa Bárbara,PAP,Celenia Maria Borjas Martinez,202,0
 candidate,Santa Bárbara,PAP,Flora Idalma Lopez Vallecillo,100,0
 candidate,Santa Bárbara,PAP,Glenda Arely Alonzo Barahona,187,0
 candidate,Santa Bárbara,PAP,Jesus Guillermo Alonzo Trejo,155,0
@@ -1000,138 +1000,138 @@ candidate,Santa Bárbara,PAP,Luis Guillermo Rivera Medrano,231,0
 candidate,Santa Bárbara,PAP,Oscar Orlando Guzman Bennett,226,0
 candidate,Santa Bárbara,PAP,Osvaldo Omar Caballero Rapalo,134,0
 candidate,Santa Bárbara,PAP,Pastora  Madrid Garcia,182,0
-candidate,Santa Bárbara,UD,Blanca Suyapa Membre¿o Matute,1228,0
+candidate,Santa Bárbara,UD,Blanca Suyapa Membre¿o Matute,1137,0
 candidate,Santa Bárbara,UD,Coronado  Gomez Izaguirre,1500,0
-candidate,Santa Bárbara,UD,Idania Yadira Rodriguez ,2387,0
+candidate,Santa Bárbara,UD,Idania Yadira Rodriguez ,2390,0
 candidate,Santa Bárbara,UD,Jose Ramon Gomez ,2527,0
-candidate,Santa Bárbara,UD,Liduvina  Perdomo Castellanos,2858,0
-candidate,Santa Bárbara,UD,Lily May Oliver Urbina,1617,0
-candidate,Santa Bárbara,UD,Maria Teresa Sabillon Turcios,1520,0
+candidate,Santa Bárbara,UD,Liduvina  Perdomo Castellanos,2837,0
+candidate,Santa Bárbara,UD,Lily May Oliver Urbina,1616,0
+candidate,Santa Bárbara,UD,Maria Teresa Sabillon Turcios,1461,0
 candidate,Santa Bárbara,UD,Oscar Humberto Mejia Hernandez,4133,0
-candidate,Santa Bárbara,UD,Sergio Arturo Castellanos Perdomo,15304,0
+candidate,Santa Bárbara,UD,Sergio Arturo Castellanos Perdomo,15249,0
 candidate,Valle,DC,Carlos Humberto Manzanares Cabrera,4364,0
-candidate,Valle,DC,Flora Azucena Avila Matamoros,1920,0
+candidate,Valle,DC,Flora Azucena Avila Matamoros,1909,0
 candidate,Valle,DC,Jisela Rosmery Godinez Nu¿ez,1680,0
 candidate,Valle,DC,Rodrigo Alexis Romero Villalobos,1585,0
 candidate,Valle,LIBRE,Eleazar Alexander Juarez Sarabia,11992,1
-candidate,Valle,LIBRE,Rony  Cruz Castillo,8108,0
+candidate,Valle,LIBRE,Rony  Cruz Castillo,8048,0
 candidate,Valle,LIBRE,Rony Javier Paz Reyes,9526,0
 candidate,Valle,LIBRE,Wilfredo  Guevara Trujillo,9497,0
-candidate,Valle,Liberal,Elida Karina Reyes Posadas,11183,0
+candidate,Valle,Liberal,Elida Karina Reyes Posadas,11185,0
 candidate,Valle,Liberal,Jeronimo Aristides Gonzales Hernandez,10232,0
-candidate,Valle,Liberal,Jose Alfredo Saavedra Paz,20140,1
+candidate,Valle,Liberal,Jose Alfredo Saavedra Paz,20282,1
 candidate,Valle,Liberal,Rosario Emperatris Carias ,10226,0
-candidate,Valle,Nacional,Ana Julia Garcia Villalobos,14109,0
-candidate,Valle,Nacional,Jose Tomas Zambrano Molina,20868,1
+candidate,Valle,Nacional,Ana Julia Garcia Villalobos,14189,0
+candidate,Valle,Nacional,Jose Tomas Zambrano Molina,20988,1
 candidate,Valle,Nacional,Luz Arely Valdez Melendez,14668,0
-candidate,Valle,Nacional,Marcos Antonio Velasquez ,15684,1
-candidate,Valle,PAC,Bernabe  Larios Villatoro,3844,0
-candidate,Valle,PAC,Daniela Paola Flores Morales,1846,0
-candidate,Valle,PAC,Ebesly Ribai Reyes Bustamante,1213,0
+candidate,Valle,Nacional,Marcos Antonio Velasquez ,15893,1
+candidate,Valle,PAC,Bernabe  Larios Villatoro,3886,0
+candidate,Valle,PAC,Daniela Paola Flores Morales,1854,0
+candidate,Valle,PAC,Ebesly Ribai Reyes Bustamante,1223,0
 candidate,Valle,PAC,Karen Lorena Lemus Berrios,1111,0
 candidate,Valle,PAP,Elva Noemy Manzanares Villatoro,138,0
-candidate,Valle,PAP,Erwin Gustavo Baquedano Mejia,431,0
+candidate,Valle,PAP,Erwin Gustavo Baquedano Mejia,430,0
 candidate,Valle,PAP,Jose Catalino Martinez Garcia,220,0
 candidate,Valle,PAP,Nancy Fabiola Alvarado Osorio,227,0
 candidate,Valle,PINU,Denis Amilcar Flores Ortiz,200,0
 candidate,Valle,PINU,Francis Alejandra Linarez Gutierrez,126,0
-candidate,Valle,PINU,Lidia Yesenia Cruz Lainez,147,0
+candidate,Valle,PINU,Lidia Yesenia Cruz Lainez,139,0
 candidate,Valle,PINU,Miguel Angel Talavera Cruz,206,0
 candidate,Valle,UD,Karla Patricia Aguilera Villalobos,151,0
 candidate,Valle,UD,Lino  Godinez ,559,0
 candidate,Valle,UD,Martir Eusebio Alvarado Izaguirre,306,0
 candidate,Valle,UD,Roxana Gabriela Ramirez Ramirez,55,0
-candidate,Yoro,DC,Adan De Jesus Ramirez Figueroa,1685,0
-candidate,Yoro,DC,Denis Javier Cruz Martinez,2070,0
-candidate,Yoro,DC,Doris Yanira Bautista Ortiz,568,0
+candidate,Yoro,DC,Adan De Jesus Ramirez Figueroa,1693,0
+candidate,Yoro,DC,Denis Javier Cruz Martinez,2081,0
+candidate,Yoro,DC,Doris Yanira Bautista Ortiz,564,0
 candidate,Yoro,DC,Eva Rosario Martinez Sanchez,766,0
-candidate,Yoro,DC,Francisco Javier Funez Ortega,1571,0
-candidate,Yoro,DC,Juan Carlos Arita Licona,835,0
-candidate,Yoro,DC,Juan Manuel Lagos Ortiz,1279,0
-candidate,Yoro,DC,Paola Elena Orellana Martinez,1818,0
+candidate,Yoro,DC,Francisco Javier Funez Ortega,1574,0
+candidate,Yoro,DC,Juan Carlos Arita Licona,833,0
+candidate,Yoro,DC,Juan Manuel Lagos Ortiz,1273,0
+candidate,Yoro,DC,Paola Elena Orellana Martinez,1823,0
 candidate,Yoro,DC,Yadira Yamileth Reyes Cabrera,1792,0
-candidate,Yoro,FAPER,Aydee Margoth Sandoval Mendoza,640,0
-candidate,Yoro,FAPER,Claudia Patricia Rosales Elias,631,0
-candidate,Yoro,FAPER,Gloria Elizabeth Caballero Moya,530,0
-candidate,Yoro,FAPER,Jairo Roylan Mendoza Mejia,362,0
-candidate,Yoro,FAPER,Jose Omar Hernandez ,425,0
-candidate,Yoro,FAPER,Lesly Amparo Echeverria Matamoros,413,0
-candidate,Yoro,FAPER,Manuela Del Carmen Maldonado Rodriguez,332,0
-candidate,Yoro,FAPER,Marvin Alexis Ramirez Juarez,820,0
-candidate,Yoro,FAPER,Sara Lizet Sorto Lorenzo,471,0
-candidate,Yoro,LIBRE,Ana Marlen Morales Reyes,32325,0
-candidate,Yoro,LIBRE,Bartolo Antonio Fuentes ,35239,1
-candidate,Yoro,LIBRE,Danilo Alexander Tejada Murillo,34646,0
-candidate,Yoro,LIBRE,Hector Antonio Mejia ,31653,0
-candidate,Yoro,LIBRE,Irma Aida Reyes Coello,36698,1
-candidate,Yoro,LIBRE,Jairo Miguel Hernandez ,33876,0
-candidate,Yoro,LIBRE,Mercedes Emilia Avila Panchame,33937,0
-candidate,Yoro,LIBRE,Paula Crecencia Duran Soto,35921,1
-candidate,Yoro,LIBRE,Santos Alfonzo Vasquez Sanchez,34454,0
-candidate,Yoro,Liberal,Daniela  Marquez Rivera,24017,0
-candidate,Yoro,Liberal,Delmi Graciela Rivera Guevara,25244,0
-candidate,Yoro,Liberal,Enrique Orlando Cano Palma,20303,0
-candidate,Yoro,Liberal,Jose Vivian Portillo Ramirez,30184,1
-candidate,Yoro,Liberal,Maria Luisa Pineda Hernandez,25162,0
-candidate,Yoro,Liberal,Maritza Janeth Varela Martinez,28512,1
-candidate,Yoro,Liberal,Ricardo Arturo Cruz Navarro,27843,0
-candidate,Yoro,Liberal,Roberto Antonio Orellana Velasquez,23659,0
-candidate,Yoro,Liberal,Sergio Armando Delgado ,22358,0
-candidate,Yoro,Nacional,Diana Patricia Urbina Soto,44161,1
-candidate,Yoro,Nacional,Jeffrey Alexander Flores Chavarria,41297,1
-candidate,Yoro,Nacional,Juan Carlos Molina Puerto,40415,0
-candidate,Yoro,Nacional,Milton Jesus Puerto Oseguera,44688,1
-candidate,Yoro,Nacional,Navil Enrique Hawit Valle,34766,0
-candidate,Yoro,Nacional,Oscar Remberto Hawit Garcia,36562,0
-candidate,Yoro,Nacional,Rene Alfredo Chacon Flores,33849,0
-candidate,Yoro,Nacional,Ricardo Arturo Bermudez Wills,39093,0
-candidate,Yoro,Nacional,Victor Manuel Fonseca Flores,36025,0
-candidate,Yoro,PAC,Angel Roberto Rivera Pacheco,12807,1
-candidate,Yoro,PAC,Claudia Lorena Flores Lopez,11298,0
-candidate,Yoro,PAC,Dennis Johan Collins Orellana,11421,0
-candidate,Yoro,PAC,Eugenia  Turcios Garcia,10585,0
-candidate,Yoro,PAC,Fausto Ricardo Carias Mahchi,11006,0
-candidate,Yoro,PAC,Jorge Adalid Diaz Martell,12269,0
-candidate,Yoro,PAC,Liberato  Madrid Castro,12748,0
-candidate,Yoro,PAC,Marlene Yesenia Izaguirre Vasquez,11774,0
-candidate,Yoro,PAC,Silvia Mariel Ponce Ferrufino,11247,0
+candidate,Yoro,FAPER,Aydee Margoth Sandoval Mendoza,641,0
+candidate,Yoro,FAPER,Claudia Patricia Rosales Elias,632,0
+candidate,Yoro,FAPER,Gloria Elizabeth Caballero Moya,536,0
+candidate,Yoro,FAPER,Jairo Roylan Mendoza Mejia,357,0
+candidate,Yoro,FAPER,Jose Omar Hernandez ,429,0
+candidate,Yoro,FAPER,Lesly Amparo Echeverria Matamoros,414,0
+candidate,Yoro,FAPER,Manuela Del Carmen Maldonado Rodriguez,333,0
+candidate,Yoro,FAPER,Marvin Alexis Ramirez Juarez,824,0
+candidate,Yoro,FAPER,Sara Lizet Sorto Lorenzo,466,0
+candidate,Yoro,LIBRE,Ana Marlen Morales Reyes,32400,0
+candidate,Yoro,LIBRE,Bartolo Antonio Fuentes ,35288,1
+candidate,Yoro,LIBRE,Danilo Alexander Tejada Murillo,34778,0
+candidate,Yoro,LIBRE,Hector Antonio Mejia ,31690,0
+candidate,Yoro,LIBRE,Irma Aida Reyes Coello,36800,1
+candidate,Yoro,LIBRE,Jairo Miguel Hernandez ,34089,0
+candidate,Yoro,LIBRE,Mercedes Emilia Avila Panchame,34053,0
+candidate,Yoro,LIBRE,Paula Crecencia Duran Soto,35984,1
+candidate,Yoro,LIBRE,Santos Alfonzo Vasquez Sanchez,34516,0
+candidate,Yoro,Liberal,Daniela  Marquez Rivera,24157,0
+candidate,Yoro,Liberal,Delmi Graciela Rivera Guevara,25316,0
+candidate,Yoro,Liberal,Enrique Orlando Cano Palma,20265,0
+candidate,Yoro,Liberal,Jose Vivian Portillo Ramirez,30257,1
+candidate,Yoro,Liberal,Maria Luisa Pineda Hernandez,25232,0
+candidate,Yoro,Liberal,Maritza Janeth Varela Martinez,28581,1
+candidate,Yoro,Liberal,Ricardo Arturo Cruz Navarro,28027,0
+candidate,Yoro,Liberal,Roberto Antonio Orellana Velasquez,23710,0
+candidate,Yoro,Liberal,Sergio Armando Delgado ,22413,0
+candidate,Yoro,Nacional,Diana Patricia Urbina Soto,44282,1
+candidate,Yoro,Nacional,Jeffrey Alexander Flores Chavarria,41556,1
+candidate,Yoro,Nacional,Juan Carlos Molina Puerto,40682,0
+candidate,Yoro,Nacional,Milton Jesus Puerto Oseguera,44878,1
+candidate,Yoro,Nacional,Navil Enrique Hawit Valle,34828,0
+candidate,Yoro,Nacional,Oscar Remberto Hawit Garcia,36776,0
+candidate,Yoro,Nacional,Rene Alfredo Chacon Flores,33899,0
+candidate,Yoro,Nacional,Ricardo Arturo Bermudez Wills,39150,0
+candidate,Yoro,Nacional,Victor Manuel Fonseca Flores,36052,0
+candidate,Yoro,PAC,Angel Roberto Rivera Pacheco,12835,1
+candidate,Yoro,PAC,Claudia Lorena Flores Lopez,11312,0
+candidate,Yoro,PAC,Dennis Johan Collins Orellana,11452,0
+candidate,Yoro,PAC,Eugenia  Turcios Garcia,10586,0
+candidate,Yoro,PAC,Fausto Ricardo Carias Mahchi,11059,0
+candidate,Yoro,PAC,Jorge Adalid Diaz Martell,12275,0
+candidate,Yoro,PAC,Liberato  Madrid Castro,12791,0
+candidate,Yoro,PAC,Marlene Yesenia Izaguirre Vasquez,11794,0
+candidate,Yoro,PAC,Silvia Mariel Ponce Ferrufino,11249,0
 candidate,Yoro,PAP,Arlene Josaary Rea¿os Linares,494,0
-candidate,Yoro,PAP,Dilcia Rosibel Lopez Velasquez,253,0
+candidate,Yoro,PAP,Dilcia Rosibel Lopez Velasquez,254,0
 candidate,Yoro,PAP,Evelyn Jeanneth Archaga Vasquez,304,0
 candidate,Yoro,PAP,Francisco Yalil Martinez Gabrie,244,0
 candidate,Yoro,PAP,Higda Amparo Andino Guevara,551,0
-candidate,Yoro,PAP,Jerson Omar Velasquez Villatoro,665,0
-candidate,Yoro,PAP,Miguel Angel Garcia Fajardo,459,0
+candidate,Yoro,PAP,Jerson Omar Velasquez Villatoro,645,0
+candidate,Yoro,PAP,Miguel Angel Garcia Fajardo,460,0
 candidate,Yoro,PAP,Nelson David Leiva Banegas,428,0
-candidate,Yoro,PAP,Santos Faustino Padilla Figueroa,200,0
-candidate,Yoro,PINU,Alejandro  Galvez Cano,1048,0
-candidate,Yoro,PINU,Blanca Aracely Matute Sanchez,820,0
-candidate,Yoro,PINU,Jorge Alberto Andino Garcia,600,0
-candidate,Yoro,PINU,Jose David Cruz Cruz,1076,0
+candidate,Yoro,PAP,Santos Faustino Padilla Figueroa,201,0
+candidate,Yoro,PINU,Alejandro  Galvez Cano,1008,0
+candidate,Yoro,PINU,Blanca Aracely Matute Sanchez,822,0
+candidate,Yoro,PINU,Jorge Alberto Andino Garcia,598,0
+candidate,Yoro,PINU,Jose David Cruz Cruz,1010,0
 candidate,Yoro,PINU,Maria  Contreras Licona,608,0
-candidate,Yoro,PINU,Maria Del Carmen Bonilla Martinez,750,0
+candidate,Yoro,PINU,Maria Del Carmen Bonilla Martinez,751,0
 candidate,Yoro,PINU,Maria Marlenis Yanez Maldonado,796,0
-candidate,Yoro,PINU,Oscar Mardoqueo Lopez Martinez,707,0
-candidate,Yoro,PINU,Rafael  Sandoval Bardales,1094,0
-candidate,Yoro,UD,Cesar David Adolfo Ham Pe¿a,9673,0
-candidate,Yoro,UD,Hector Dario Martinez Soliz,5248,0
-candidate,Yoro,UD,Hipolita Graciela Rodriguez ,5492,0
-candidate,Yoro,UD,Marlon Edgardo Valeriano Chandia,3452,0
-candidate,Yoro,UD,Mirian Lizzeth Urbina Najera,4914,0
-candidate,Yoro,UD,Nerida Maritza Yanes Antunez,4393,0
-candidate,Yoro,UD,Prisila  Alvarado Euceda,4875,0
-candidate,Yoro,UD,Rafael  Sibrian Guerra,4166,0
+candidate,Yoro,PINU,Oscar Mardoqueo Lopez Martinez,708,0
+candidate,Yoro,PINU,Rafael  Sandoval Bardales,1095,0
+candidate,Yoro,UD,Cesar David Adolfo Ham Pe¿a,9677,0
+candidate,Yoro,UD,Hector Dario Martinez Soliz,5250,0
+candidate,Yoro,UD,Hipolita Graciela Rodriguez ,5502,0
+candidate,Yoro,UD,Marlon Edgardo Valeriano Chandia,3454,0
+candidate,Yoro,UD,Mirian Lizzeth Urbina Najera,4920,0
+candidate,Yoro,UD,Nerida Maritza Yanes Antunez,4298,0
+candidate,Yoro,UD,Prisila  Alvarado Euceda,4871,0
+candidate,Yoro,UD,Rafael  Sibrian Guerra,4186,0
 candidate,Yoro,UD,Santos Paulino Cantillano Velasquez,5492,0
-party,Atlántida,Nacional,,257312,3
-party,Atlántida,LIBRE,,179085,2
-party,Atlántida,Liberal,,141179,2
-party,Atlántida,PAC,,82165,1
-party,Atlántida,DC,,23005,0
-party,Atlántida,PINU,,11202,0
-party,Atlántida,UD,,10742,0
-party,Atlántida,FAPER,,4742,0
-party,Atlántida,PAP,,4704,0
-dept,Atlántida,,,714136,8
+party,Atlántida,Nacional,,258347,3
+party,Atlántida,LIBRE,,179696,2
+party,Atlántida,Liberal,,141359,2
+party,Atlántida,PAC,,82490,1
+party,Atlántida,DC,,22998,0
+party,Atlántida,PINU,,11110,0
+party,Atlántida,UD,,10734,0
+party,Atlántida,FAPER,,4717,0
+party,Atlántida,PAP,,4596,0
+dept,Atlántida,,,716047,8
 party,Choluteca,Nacional,,411854,4
 party,Choluteca,Liberal,,251623,2
 party,Choluteca,LIBRE,,197711,2
@@ -1153,16 +1153,16 @@ party,Colón,PINU,,1396,0
 party,Colón,DC,,1251,0
 party,Colón,PAP,,621,0
 dept,Colón,,,263051,4
-party,Comayagua,Nacional,,280793,3
-party,Comayagua,LIBRE,,192684,2
-party,Comayagua,Liberal,,148502,1
-party,Comayagua,PAC,,68714,1
-party,Comayagua,UD,,10086,0
-party,Comayagua,PAP,,8809,0
-party,Comayagua,FAPER,,6388,0
-party,Comayagua,PINU,,6167,0
-party,Comayagua,DC,,6070,0
-dept,Comayagua,,,728213,7
+party,Comayagua,Nacional,,283200,3
+party,Comayagua,LIBRE,,193777,2
+party,Comayagua,Liberal,,149228,1
+party,Comayagua,PAC,,68882,1
+party,Comayagua,UD,,10091,0
+party,Comayagua,PAP,,8820,0
+party,Comayagua,FAPER,,6412,0
+party,Comayagua,PINU,,6166,0
+party,Comayagua,DC,,6104,0
+dept,Comayagua,,,732680,7
 party,Copán,Nacional,,279663,3
 party,Copán,Liberal,,149685,2
 party,Copán,LIBRE,,128690,2
@@ -1171,26 +1171,26 @@ party,Copán,UD-FAPER,,7157,0
 party,Copán,DC,,3844,0
 party,Copán,PINU,,1724,0
 dept,Copán,,,591673,7
-party,Cortés,PAC,,1726765,6
-party,Cortés,LIBRE,,1516259,5
-party,Cortés,Nacional,,1457850,5
-party,Cortés,Liberal,,963693,3
-party,Cortés,UD,,110656,1
-party,Cortés,PINU,,72627,0
-party,Cortés,DC,,71807,0
-party,Cortés,PAP,,47421,0
-party,Cortés,FAPER,,38161,0
-dept,Cortés,,,6005239,20
-party,El Paraíso,Nacional,,292470,3
-party,El Paraíso,LIBRE,,210943,2
-party,El Paraíso,Liberal,,166478,1
-party,El Paraíso,PAC,,23885,0
-party,El Paraíso,PINU,,5322,0
-party,El Paraíso,UD,,3989,0
-party,El Paraíso,PAP,,3263,0
-party,El Paraíso,DC,,2706,0
-party,El Paraíso,FAPER,,1256,0
-dept,El Paraíso,,,710312,6
+party,Cortés,PAC,,1729037,6
+party,Cortés,LIBRE,,1516365,5
+party,Cortés,Nacional,,1458651,5
+party,Cortés,Liberal,,964169,3
+party,Cortés,UD,,110668,1
+party,Cortés,PINU,,72633,0
+party,Cortés,DC,,71534,0
+party,Cortés,PAP,,47401,0
+party,Cortés,FAPER,,38237,0
+dept,Cortés,,,6008695,20
+party,El Paraíso,Nacional,,294433,3
+party,El Paraíso,LIBRE,,212498,2
+party,El Paraíso,Liberal,,167302,1
+party,El Paraíso,PAC,,23953,0
+party,El Paraíso,PINU,,5330,0
+party,El Paraíso,UD,,3996,0
+party,El Paraíso,PAP,,3214,0
+party,El Paraíso,DC,,2717,0
+party,El Paraíso,FAPER,,1262,0
+dept,El Paraíso,,,714705,6
 party,Francisco Morazán,Nacional,,2879341,8
 party,Francisco Morazán,LIBRE,,2355528,6
 party,Francisco Morazán,Liberal,,1409416,4
@@ -1202,15 +1202,15 @@ party,Francisco Morazán,UD,,131480,0
 party,Francisco Morazán,FAPER,,39574,0
 party,Francisco Morazán,Independiente Socialista,,16609,0
 dept,Francisco Morazán,,,8680007,23
-party,Gracias a Dios,Liberal,,5231,1
-party,Gracias a Dios,LIBRE,,4610,0
-party,Gracias a Dios,Nacional,,4478,0
+party,Gracias a Dios,Liberal,,5031,1
+party,Gracias a Dios,LIBRE,,4663,0
+party,Gracias a Dios,Nacional,,4488,0
 party,Gracias a Dios,PAP,,86,0
 party,Gracias a Dios,UD-FAPER,,76,0
 party,Gracias a Dios,PINU,,74,0
 party,Gracias a Dios,PAC,,64,0
 party,Gracias a Dios,DC,,57,0
-dept,Gracias a Dios,,,14676,1
+dept,Gracias a Dios,,,14539,1
 party,Intibucá,Nacional,,83643,1
 party,Intibucá,LIBRE,,40759,1
 party,Intibucá,Liberal,,34337,1
@@ -1221,93 +1221,93 @@ party,Intibucá,UD-FAPER,,410,0
 party,Intibucá,PINU,,381,0
 dept,Intibucá,,,164576,3
 party,Islas de la Bahía,Liberal,,6778,1
-party,Islas de la Bahía,Nacional,,4565,0
-party,Islas de la Bahía,LIBRE,,1180,0
+party,Islas de la Bahía,Nacional,,4609,0
+party,Islas de la Bahía,LIBRE,,1190,0
 party,Islas de la Bahía,PAP,,420,0
 party,Islas de la Bahía,UD,,387,0
 party,Islas de la Bahía,FAPER,,316,0
 party,Islas de la Bahía,PAC,,210,0
 party,Islas de la Bahía,PINU,,183,0
 party,Islas de la Bahía,DC,,64,0
-dept,Islas de la Bahía,,,14103,1
-party,La Paz,Nacional,,64786,1
-party,La Paz,LIBRE,,32801,1
-party,La Paz,Liberal,,27423,1
+dept,Islas de la Bahía,,,14157,1
+party,La Paz,Nacional,,64862,1
+party,La Paz,LIBRE,,32797,1
+party,La Paz,Liberal,,27450,1
 party,La Paz,UD,,6631,0
-party,La Paz,DC,,2730,0
-party,La Paz,PAC,,1867,0
-party,La Paz,PINU,,777,0
-party,La Paz,PAP,,625,0
-party,La Paz,FAPER,,524,0
-dept,La Paz,,,138164,3
-party,Lempira,Nacional,,260406,3
-party,Lempira,LIBRE,,143936,2
-party,Lempira,Liberal,,49110,0
-party,Lempira,PAC,,1937,0
-party,Lempira,DC,,651,0
-party,Lempira,PINU,,610,0
+party,La Paz,DC,,2739,0
+party,La Paz,PAC,,1863,0
+party,La Paz,PINU,,778,0
+party,La Paz,PAP,,631,0
+party,La Paz,FAPER,,522,0
+dept,La Paz,,,138273,3
+party,Lempira,Nacional,,260911,3
+party,Lempira,LIBRE,,144044,2
+party,Lempira,Liberal,,49133,0
+party,Lempira,PAC,,1887,0
+party,Lempira,DC,,650,0
+party,Lempira,PINU,,604,0
 party,Lempira,FAPER,,465,0
-party,Lempira,UD,,305,0
+party,Lempira,UD,,304,0
 party,Lempira,PAP,,256,0
-dept,Lempira,,,457676,5
-party,Ocotepeque,Nacional,,28538,1
-party,Ocotepeque,Liberal,,18963,1
-party,Ocotepeque,LIBRE,,18574,0
-party,Ocotepeque,PAC,,1631,0
+dept,Lempira,,,458254,5
+party,Ocotepeque,Nacional,,28708,1
+party,Ocotepeque,Liberal,,18972,1
+party,Ocotepeque,LIBRE,,18752,0
+party,Ocotepeque,PAC,,1628,0
 party,Ocotepeque,DC,,390,0
 party,Ocotepeque,PINU,,227,0
 party,Ocotepeque,FAPER,,191,0
 party,Ocotepeque,PAP,,125,0
 party,Ocotepeque,UD,,78,0
-dept,Ocotepeque,,,68717,2
-party,Olancho,Nacional,,385533,3
-party,Olancho,LIBRE,,330661,3
-party,Olancho,Liberal,,100784,1
-party,Olancho,UD,,19438,0
-party,Olancho,PAC,,15938,0
-party,Olancho,DC,,12075,0
-party,Olancho,PAP,,6714,0
-party,Olancho,PINU,,5819,0
-party,Olancho,FAPER,,3152,0
-dept,Olancho,,,880114,7
-party,Santa Bárbara,Nacional,,434610,4
-party,Santa Bárbara,LIBRE,,428520,4
-party,Santa Bárbara,Liberal,,81178,1
-party,Santa Bárbara,PAC,,44631,0
-party,Santa Bárbara,UD,,33074,0
-party,Santa Bárbara,DC,,13808,0
-party,Santa Bárbara,FAPER,,3372,0
-party,Santa Bárbara,PAP,,1653,0
-dept,Santa Bárbara,,,1040846,9
-party,Valle,Nacional,,65329,2
-party,Valle,Liberal,,51781,1
-party,Valle,LIBRE,,39123,1
-party,Valle,DC,,9549,0
-party,Valle,PAC,,8014,0
+dept,Ocotepeque,,,69071,2
+party,Olancho,Nacional,,387078,3
+party,Olancho,LIBRE,,331681,3
+party,Olancho,Liberal,,101192,1
+party,Olancho,UD,,19344,0
+party,Olancho,PAC,,15987,0
+party,Olancho,DC,,12094,0
+party,Olancho,PAP,,6674,0
+party,Olancho,PINU,,6242,0
+party,Olancho,FAPER,,3153,0
+dept,Olancho,,,883445,7
+party,Santa Bárbara,Nacional,,434666,4
+party,Santa Bárbara,LIBRE,,429600,4
+party,Santa Bárbara,Liberal,,81170,1
+party,Santa Bárbara,PAC,,44727,0
+party,Santa Bárbara,UD,,32850,0
+party,Santa Bárbara,DC,,13778,0
+party,Santa Bárbara,FAPER,,3358,0
+party,Santa Bárbara,PAP,,1655,0
+dept,Santa Bárbara,,,1041804,9
+party,Valle,Nacional,,65738,2
+party,Valle,Liberal,,51925,1
+party,Valle,LIBRE,,39063,1
+party,Valle,DC,,9538,0
+party,Valle,PAC,,8074,0
 party,Valle,UD,,1071,0
-party,Valle,PAP,,1016,0
-party,Valle,PINU,,679,0
-dept,Valle,,,176562,4
-party,Yoro,Nacional,,350856,3
-party,Yoro,LIBRE,,308749,3
-party,Yoro,Liberal,,227282,2
-party,Yoro,PAC,,105155,1
-party,Yoro,UD,,47705,0
-party,Yoro,DC,,12384,0
-party,Yoro,PINU,,7499,0
-party,Yoro,FAPER,,4624,0
-party,Yoro,PAP,,3598,0
-dept,Yoro,,,1067852,9
-total,,PAC,,3425544,13
-total,,Nacional,,7629876,48
-total,,Liberal,,3880765,26
-total,,DC,,369161,1
-total,,PINU,,412829,1
-total,,UD,,385668,1
-total,,FAPER,,107463,0
-total,,PAP,,224142,0
-total,,LIBRE,,6243880,38
+party,Valle,PAP,,1015,0
+party,Valle,PINU,,671,0
+dept,Valle,,,177095,4
+party,Yoro,Nacional,,352103,3
+party,Yoro,LIBRE,,309598,3
+party,Yoro,Liberal,,227958,2
+party,Yoro,PAC,,105353,1
+party,Yoro,UD,,47650,0
+party,Yoro,DC,,12399,0
+party,Yoro,PINU,,7396,0
+party,Yoro,FAPER,,4632,0
+party,Yoro,PAP,,3581,0
+dept,Yoro,,,1070670,9
+total,,PAC,,3428723,13
+total,,Nacional,,7640144,48
+total,,Liberal,,3884050,26
+total,,DC,,368927,1
+total,,PINU,,413057,1
+total,,UD,,385310,1
+total,,FAPER,,107537,0
+total,,PAP,,223926,0
+total,,LIBRE,,6250479,38
 total,,Unidos Choluteca,,7494,0
 total,,UD-FAPER,,7643,0
 total,,Independiente Socialista,,16609,0
-total,,,,22711074,128
+total,,,,22733899,128
